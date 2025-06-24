@@ -1,0 +1,39 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Tale of the Snake&#039;s Cultivation",
+            "story": "مانجا Tale of the Snake's Cultivation مترجمةTale of the Snake's Cultivation في إحدى القرى، ابتلع ثعبان عجوز عن غير قصد حبة على شكل إنسان من أحد المتدربين، فاكتسب ذكاءً وانطلق في طريق التدريب. ومع بقاء عقد واحد فقط من عمره، لا يخشى ال...",
+            "image": "https://olympustaff.com/images/manga/1522142457404047513.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8c674/1/b3385d9613387c40627fd83178e53838.01.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/426b12e20b00af2a08c0c82822c57e01.02.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/de1d1382e6742f72bdeda8837d3a3475.03.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/3efce68d2d70f8f1e8c24a1fe0e6a273.04.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/3176c3654716863ddb80dd348b75c78f.05.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/e47fd2461cc9a1ca65d7f5feea3e2e4b.06.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/6406ffc8cb8c6bd0d7a7e5dd34b00259.07.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/1f3e1c88722b0d23fb8e0be316353cc6.08.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/3ebd8e41dc7eb8fab820adf20d08bf23.09.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/1/12cee391f3810045d20393d7863dea8a.10.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8c674/2/e6646848acc4ad8017e34ab802633047.01.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/2/e11baa07d968f6e7bf0e6ef0ad190bd9.02.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/2/4d8e75e99c71e1fbc4bb76bc4654673a.03.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/2/04d13b7f5679231d9088a39147888cf9.04.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/2/873b074ee635c154fdc7502e7f6f2d1c.05.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/2/868b0ec6bdd9d0d5d221d336460b2f97.06.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/2/e07683cdf65ebc206362b53e42e84675.07.jpg",
+                    "https://olympustaff.com/uploads/manga_8c674/2/5860409c2cfd97e7abdca1e073772b0b.08.jpg"
+                ]
+            }
+        ]
+    }
+}

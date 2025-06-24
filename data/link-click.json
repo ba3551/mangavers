@@ -1,0 +1,53 @@
+{
+    "anime1": {
+        "info": {
+            "title": "link click",
+            "story": "مانجا link click مترجمةlink click في أحد أركان المدينة، يقع محل عادي يُدعى \"Time Photo Studio\". يستطيع مالكا المحل، تشنغ شياوشي ولو قوانغ، العودة بالزمن إلى الوراء من خلال الصور. ذات يوم، زار...",
+            "image": "https://olympustaff.com/images/manga/3816245402101193316.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f9028/1/21cc471b287f30e9e3da2373d711277a.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/1/34721ceb70e4cb87316526eb58339d9a.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/1/c8ff43769d0880812630533bb4524f37.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f9028/2/d222adb73580de44b182d880b82aea05.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/2/4cf0c9dd4f2cee26912eabd6c5f30079.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f9028/3/0092e81c3afd83d5615e0e696d9c9a3d.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/3/39cc85c934ae7a71b68908590d686f22.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f9028/4/13c78b483773cf23bb0f7c534f6e0a7f.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/4/73d12ba98af6b07e6b5cf8bc808e3023.jpg"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f9028/5/9ead0cd003374493e92ef7cbc997d6cc.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/5/13adccc78f5749bd4cf179468caa8010.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/5/f5fe06fd222894d9b9eeaeb3b9c30637.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/5/23f4cc44c3076053011b29127c9d4e89.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/5/24c5e373ae4902f758f8577a676a2f34.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/5/c7ede69be7aa47f93377c1ff24b6d09f.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/5/a31ede983cb7d990194c09358cc4b9ff.jpg",
+                    "https://olympustaff.com/uploads/manga_f9028/5/18c1de39eb9c5f7d23f42da2f26ae681.9a5b60a925d5d471.jpg"
+                ]
+            }
+        ]
+    }
+}

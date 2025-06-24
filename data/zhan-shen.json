@@ -1,0 +1,31 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Zhan Shen",
+            "story": "مانجا Zhan Shen مترجمةZhan Shen نزلت الأرواح والشياطين على العالم، ودُمرت الأمم واحدة تلو الأخرى، ومع اقتراب آخر ملاذ، شيا العظمى، من الفناء، كانوا على وشك تحقيق النصر النهائي، وحكم الكوكب...",
+            "image": "https://olympustaff.com/images/manga/3667936221778144025.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_7c590/1/c192d4caf835e42d237a0953d88fa1a0.01.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/1/c89e90f5854a49b84da8fd5e6c962d9f.02.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/1/be390f5e92dea824a1b971688ff6a8b6.03.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/1/924ca3572b181b00661f3bc4e1835a74.04.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/1/7b50583e7702d917f9d16218a785bd14.05.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/1/6f949ccca8cb973416e266140c47cda8.06.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_7c590/2/1c57bb455eb33cc363461276fe009a58.01.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/2/b32ea7d969b9708f5884d324dfc8610e.02.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/2/e9bc448ee45869f9a5d7617ed49d7a29.03.jpg",
+                    "https://olympustaff.com/uploads/manga_7c590/2/fbad3c3b5fe7b7ed0224041593f3d2c6.04.jpg"
+                ]
+            }
+        ]
+    }
+}

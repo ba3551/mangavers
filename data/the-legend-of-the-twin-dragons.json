@@ -1,0 +1,29 @@
+{
+    "anime1": {
+        "info": {
+            "title": "The Legend of The Twin Dragons",
+            "story": "مانجا The Legend of The Twin Dragons مترجمةThe Legend of The Twin Dragons «كو تشونغ» و و«شو شي-لينغ» هما اثنين من الشباب الطائشين اليتيمين، «كو تشينغ» ذكي ومحتال، ولديه حب كبير وكبرياء، وطموح كبير، ولا يرضى بحياته العاديّة؛ أما «شو...",
+            "image": "https://olympustaff.com/images/manga/3915160591614513623.png"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_2f37d/0/4eac1e14210b78b9b11f01e8363d1479.Untitled-1_11zon.jpeg"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_2f37d/1/f5213bbd8cb71a1a502e8a5a7b9f21ed.jpeg",
+                    "https://olympustaff.com/uploads/manga_2f37d/1/bf4f8ce202eb69b183e0935335e2ceb2.jpeg",
+                    "https://olympustaff.com/uploads/manga_2f37d/1/89ae5dd522a16433dd09cba8b242bbcd.jpeg",
+                    "https://olympustaff.com/uploads/manga_2f37d/1/c5d9473341a934b6675aa939dc4d8c07.jpeg",
+                    "https://olympustaff.com/uploads/manga_2f37d/1/4543197bc0f8c31ca2b4757254c56a90.jpeg",
+                    "https://olympustaff.com/uploads/manga_2f37d/1/bd8a495ac6b035261809dd4661a93664.jpeg",
+                    "https://olympustaff.com/uploads/manga_2f37d/1/4887228f509e417b2b3b69f4cd98964e.jpeg"
+                ]
+            }
+        ]
+    }
+}

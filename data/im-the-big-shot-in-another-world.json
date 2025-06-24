@@ -1,0 +1,62 @@
+{
+    "anime1": {
+        "info": {
+            "title": "I&#039;m the Big Shot in Another World",
+            "story": "مانجا I'm the Big Shot in Another World مترجمةI'm the Big Shot in Another World العالم الحديث: \"شو فاي\" ، طالب جامعي معاصر، ليس له مظهر جيد، ولا ممتلكات، ولا مستقبل. العالم القديم: فنانو الدفاع عن النفس، والرهبان، والتعاويذ، والقوى الخار...",
+            "image": "https://olympustaff.com/images/manga/2030504025.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_05049/01/0084e0f412def83c1be4a8c947c5911c.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/01/36d86337cb6e05ee5b83cc41f34642db.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/01/4b8581879755d32dfbe17ae4e0b6d79f.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_05049/02/d1b19052abc04f321d75e921a925053c.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/02/7818218f14e97098519822c9dd85feff.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/02/a87ad03785dc6cd12c01ac8ed27eb353.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_05049/03/75edf37e7a70a8f56a21b21e2d6f513f.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/03/7c1ef8b399f17ca10e5808855e3d809d.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/03/a748b07fabac16e93a75a1c88e2f3d0a.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_05049/04/a2b208e832c1019831812a644799093d.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/04/03c4c7211c027df3c5846b6f0b434cd5.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/04/4785be75b2954e61860d64ef02c93fe1.jpg"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_05049/05/7f5757ef1d56b108b7248ee5d99d627c.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/05/a40560e6adf72e964909db9189f40ca9.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/05/e6a07e2f3468554a444f2db95f96cc25.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/05/bb25251a6fe4b21169bf3d897366e5c4.jpg"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_05049/06/9bc10c96449e2f725ab9e8e45afc35ec.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/06/43f221371fd03f95573b62e2c7b5b0a4.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/06/d362f3d1b7070fa65f0d4641699db81f.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/06/afe0f86e2b7b645c7ce500a071e2c6df.jpg",
+                    "https://olympustaff.com/uploads/manga_05049/06/0e3633827568c8ef451e97146fceb7d4.jpg"
+                ]
+            }
+        ]
+    }
+}
