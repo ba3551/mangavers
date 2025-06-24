@@ -399,7 +399,7 @@ body {
 }
 
 .trending-cards .manga-card::after {
-    content: '🔥';
+    content: 'ðŸ”¥';
     position: absolute;
     top: 12px;
     right: 12px;
@@ -797,7 +797,7 @@ body {
     background: #dc3545;
     color: white;
     border: none;
-    padding: 8px 10px;
+    padding: 10px 15px;
     border-radius: 8px;
     cursor: pointer;
     font-family: 'Cairo', sans-serif;
@@ -818,7 +818,7 @@ body {
     background: #667eea;
     color: white;
     border: none;
-    padding: 8px 10px;
+    padding: 8px 15px;
     border-radius: 8px;
     cursor: pointer;
     font-family: 'Cairo', sans-serif;
@@ -968,7 +968,7 @@ body {
     }
     
     .chapter-navigation {
-        flex-direction: row;
+        flex-direction: column;
         gap: 0.5rem;
     }
 }
