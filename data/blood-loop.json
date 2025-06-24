@@ -1,0 +1,82 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Blood Loop",
+            "story": "مانجا Blood Loop مترجمةBlood Loop مخلوقات غريبة قادمة من فضاء غامض، تستطدم بالأرض وتحول البشر إلى مخلوقات كبني جنسها، شاو تشينغ وتشانغ يي رين هما صديقين منذ الطفولة، يقفان في مواجهة وباء الدم...",
+            "image": "https://olympustaff.com/images/manga/8948405961666849361.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/1/01.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/1/02.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/1/03.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/1/04.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/1/8362ce097601cadb7131669bc946ae5d.Blood Loop - 1 - 36.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/2/01.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/2/02.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/2/03.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/2/04.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/2/05.webp"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/3/ff03567cd49db7f66d57318866a32165.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/3/215d49d934f7df6112a9288dba04d98b.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/3/89a8efdedca67cdbc9016662e5d2ddb5.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/3/3b311b948fe2224db5c22a6fa2f9e663.webp"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/4/376a622fddb5ac112592cae60935887e.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/4/e446f65a01bbeb11998f891604372287.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/4/6d95697dde0cac63a8831bdb1d41b044.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/4/c9a2526f49744f2c6d75e8f5e9ca1bbe.webp"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/5/46cd1c64b317d803d2ccb5f14a12a5b3.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/5/5c7362bec8cabe4fe687bada4231bbd3.webp"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/6/9ac3ea8102c599af956f7ce44a9dce8c.01.webp"
+                ]
+            },
+            {
+                "chapter": "7",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/7/46e8cc3dbaacb2df503055a00dd1bbc7.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/7/3c562fb15b60fa5ec57d7918a4469edb.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/7/fa0753e7b4c8fa01722d5f88cbd7168e.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/7/17b498039f75a35ac1093fd09d2cb4e4.webp"
+                ]
+            },
+            {
+                "chapter": "8",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_da0d1/8/bbfd06a604be44867efd4a169850cfb9.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/8/b644b10cc751b1f02a53cc5b5903ebef.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/8/984d42c43550dc7f2ffff982891a3fc6.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/8/e3a4215b7dcfa2404d6396d4e0737253.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/8/e25c9c2fc62fd8fe718d2c7ce430243d.webp",
+                    "https://olympustaff.com/uploads/manga_da0d1/8/be670002b9bfb4d03b4da87ee463fc36.webp"
+                ]
+            }
+        ]
+    }
+}

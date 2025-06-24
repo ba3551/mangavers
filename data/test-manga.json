@@ -1,0 +1,65 @@
+{
+    "anime1": {
+        "info": {
+            "title": "test manga",
+            "story": "مانجا test manga مترجمةtest manga 1111",
+            "image": "https://olympustaff.com/images/manga/1129350626.png"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/0.001/7a9c7d4c098823e0c05fc958a8a9897d.edad1a48e92dd5e73a94742628ebe3ae.jpg"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/1/4abe23bcc104e0efba30764614c72b1f.12.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/2/6dfc6fdb69c6a9a4294f8d5fb6280377.e9b38c1541bce30243f8b434be4dbcc3.png"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/3/1af37f4fec94876c8d7d2b8b29c4008a.av_1.png"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/5/aa3b62599fbc9ff590083dbcf0fe8323.av_1.png"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/6/1ba1857ff04d09882267ccfa036aff51.e9b38c1541bce30243f8b434be4dbcc3.png"
+                ]
+            },
+            {
+                "chapter": "7",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/7/227d6f0092cb281871b0c5795a45f8e7.e9b38c1541bce30243f8b434be4dbcc3.png"
+                ]
+            },
+            {
+                "chapter": "8",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/8/cbe1e22e9147444c023fb6a28b1f0649.av_1.png"
+                ]
+            },
+            {
+                "chapter": "11",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1ff1d/11/b613d44afcec51524521006a1d0d9a95.20200314020343343 (1).jpg"
+                ]
+            }
+        ]
+    }
+}

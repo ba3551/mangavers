@@ -1,0 +1,73 @@
+{
+    "anime1": {
+        "info": {
+            "title": "God Retreat",
+            "story": "مانجا God Retreat مترجمةGod Retreat في عالم فنون الدفاع عن النفس ، بصفته ابن الملك الإلهي ، من الواضح أنه يتمتع بقوة شجاعة ، ولكن رتبته عائلته إلى الأرض ، باستخدام الوسائل القانونية البشرية لكس...",
+            "image": "https://olympustaff.com/images/manga/1501150193.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_91889/1/00.webp",
+                    "https://olympustaff.com/uploads/manga_91889/1/01.webp",
+                    "https://olympustaff.com/uploads/manga_91889/1/02.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_91889/2/00.webp",
+                    "https://olympustaff.com/uploads/manga_91889/2/01.webp",
+                    "https://olympustaff.com/uploads/manga_91889/2/02.webp",
+                    "https://olympustaff.com/uploads/manga_91889/2/03.webp"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_91889/3/00.webp",
+                    "https://olympustaff.com/uploads/manga_91889/3/01.webp",
+                    "https://olympustaff.com/uploads/manga_91889/3/02.webp",
+                    "https://olympustaff.com/uploads/manga_91889/3/03.webp"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_91889/4/00.webp",
+                    "https://olympustaff.com/uploads/manga_91889/4/01.webp",
+                    "https://olympustaff.com/uploads/manga_91889/4/02.webp",
+                    "https://olympustaff.com/uploads/manga_91889/4/03.webp",
+                    "https://olympustaff.com/uploads/manga_91889/4/04.webp",
+                    "https://olympustaff.com/uploads/manga_91889/4/05.webp",
+                    "https://olympustaff.com/uploads/manga_91889/4/06.webp"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_91889/5/00.webp",
+                    "https://olympustaff.com/uploads/manga_91889/5/01.webp",
+                    "https://olympustaff.com/uploads/manga_91889/5/02.webp",
+                    "https://olympustaff.com/uploads/manga_91889/5/03.webp",
+                    "https://olympustaff.com/uploads/manga_91889/5/04.webp",
+                    "https://olympustaff.com/uploads/manga_91889/5/05.webp",
+                    "https://olympustaff.com/uploads/manga_91889/5/06.webp"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_91889/06/d00fd7d40f860e5e5de1c4485defef7e.jpg",
+                    "https://olympustaff.com/uploads/manga_91889/06/b38e92b7cabbdb49cc3ac4a6755b096f.jpg",
+                    "https://olympustaff.com/uploads/manga_91889/06/440dbfa8654bfe240a5ab8c65ab06295.jpg",
+                    "https://olympustaff.com/uploads/manga_91889/06/c0326a0ef7d5fdf96dded67a45e8843c.jpg",
+                    "https://olympustaff.com/uploads/manga_91889/06/4f34b5741d6516b1b2a60adf5e8ea3c3.jpg",
+                    "https://olympustaff.com/uploads/manga_91889/06/f8e03db064dd1320c8690c636a991240.jpg",
+                    "https://olympustaff.com/uploads/manga_91889/06/856100aa2410b9b76a5c3d7b8c48d341.jpg"
+                ]
+            }
+        ]
+    }
+}

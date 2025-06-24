@@ -1,0 +1,65 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Lord of the Mysteries",
+            "story": "مانجا Lord of the Mysteries مترجمةLord of the Mysteries عند استيقاظه، يجد نفسه أمام سلسلة من الألغاز، يجد تشو مينغ روي نفسه متجسدًا في شخصية كلاين موريتي في عالم بديل يشبه العصر الفيكتوري، حيث يرى عالمًا مليئًا با...",
+            "image": "https://olympustaff.com/images/manga/7480401151858191612.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/0/0e38abde6cfc7c735164dc84754fbdb7.1.jpg"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/1/75ccb0b2966f5ac12ebe6d4d0db551ca.01.jpg",
+                    "https://olympustaff.com/uploads/manga_43fea/1/45f27a91fe7a857925f7ba82678814dc.02.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/2/8415b7330fe1a6cac930fbfe744a85f6.01.jpg",
+                    "https://olympustaff.com/uploads/manga_43fea/2/1f605d3679ff13f3a18235df3278ecd0.02.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/3/08f1745a238c27a5e5952e6027848531.01.jpg",
+                    "https://olympustaff.com/uploads/manga_43fea/3/d213b62c299d665580fed64ed27a7057.02.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/4/b50653050f5f271251dc093bce58e227.01.jpg",
+                    "https://olympustaff.com/uploads/manga_43fea/4/b80f8fea3fc50a7afb20d9f7b81a92b3.02.jpg"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/5/7bca66de6b7bf73394c941aeb70cde5c.01.jpg"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/6/7d1c20c1230170b9c58f10e6e3af224d.01.jpg",
+                    "https://olympustaff.com/uploads/manga_43fea/6/fcae94b52e3949e7c60554cf48115618.02.jpg"
+                ]
+            },
+            {
+                "chapter": "7",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_43fea/7/a3bf206fcc3b14c556c48793e06a1f32.01.jpg",
+                    "https://olympustaff.com/uploads/manga_43fea/7/557beed2a0b10fccfca30ae4ea651670.02.jpg"
+                ]
+            }
+        ]
+    }
+}

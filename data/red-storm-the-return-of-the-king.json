@@ -1,0 +1,31 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Red Storm - The Return of The King",
+            "story": "مانجا Red Storm - The Return of The King مترجمةRed Storm - The Return of The King فتى لم يستطع تقبل الصحراء الحمراء المصبغة بلدماء القانية. أصبح الفتى سيد حرب الصحراء وأنقذها، لكن...\r\nالآن، العالم على وشك أن يغرق في الدماء. سيد الحرب الآن...",
+            "image": "https://olympustaff.com/images/manga/1520580233838099767.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_7ce32/0/c7c87643fa0cf6cd61df55473fa17a6d.01_11zon.webp"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_7ce32/1/c91ae74101cda32502e2ddd5051ac297.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/4ae26880c57ce934b0ea3afea45b3c4f.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/aed7bff0e92fb5d6e37d4cd4baf69611.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/30acf93b7f1fc2802c574107133c0677.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/b69b89fb24bad05e47497ceb2676e2c6.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/dbbd838169a12b3880ab81c920ce49e2.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/0a0b989aecc4b18733546c5b1f75226c.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/50e436d4570953cd1474a9f5cc085893.webp",
+                    "https://olympustaff.com/uploads/manga_7ce32/1/39fa3a9091081480c8e1f9dbc5df0ec4.webp"
+                ]
+            }
+        ]
+    }
+}
