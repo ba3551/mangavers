@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مانجافيرس - موقع المانجا والمانهوا</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="nav-brand">
+                <h1><i class="fas fa-book-open"></i> مانجافيرس</h1>
+            </div>
+            
+            <!-- Desktop Navigation -->
+            <nav class="nav-tabs desktop-nav">
+                <button class="nav-tab active" data-tab="discover">
+                    <i class="fas fa-compass"></i>
+                    اكتشف
+                </button>
+                <button class="nav-tab" data-tab="genres">
+                    <i class="fas fa-tags"></i>
+                    التصنيفات
+                </button>
+                <button class="nav-tab" data-tab="trending">
+                    <i class="fas fa-fire"></i>
+                    الأكثر شعبية
+                </button>
+                <button class="nav-tab" data-tab="latest">
+                    <i class="fas fa-clock"></i>
+                    الأحدث
+                </button>
+            </nav>
+            
+            <!-- Desktop Header Actions -->
+            <div class="header-actions desktop-actions">
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="ابحث عن مانجا...">
+                    <i class="fas fa-search search-icon"></i>
+                </div>
+                <button class="login-btn">
+                    <i class="fas fa-user"></i>
+                    تسجيل الدخول
+                </button>
+            </div>
+
+            <!-- Mobile Hamburger Menu -->
+            <div class="mobile-menu-container">
+                <button class="hamburger-btn" id="hamburgerBtn">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Side Menu -->
+    <div class="mobile-side-menu" id="mobileSideMenu">
+        <div class="mobile-menu-header">
+            <h2><i class="fas fa-book-open"></i> مانجافيرس</h2>
+            <button class="close-menu-btn" id="closeMenuBtn">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        
+        <div class="mobile-menu-content">
+            <!-- User Section -->
+            <div class="mobile-user-section">
+                <button class="mobile-login-btn" id="mobileLoginBtn">
+                    <i class="fas fa-user"></i>
+                    <span>تسجيل الدخول</span>
+                </button>
+            </div>
+
+            <!-- Search Section -->
+            <div class="mobile-search-section">
+                <div class="mobile-search-container">
+                    <input type="text" id="mobileSearchInput" placeholder="ابحث عن مانجا...">
+                    <i class="fas fa-search"></i>
+                </div>
+            </div>
+
+            <!-- Navigation Section -->
+            <div class="mobile-nav-section">
+                <h3>التصفح</h3>
+                <ul class="mobile-nav-list">
+                    <li>
+                        <button class="mobile-nav-item active" data-tab="discover">
+                            <i class="fas fa-compass"></i>
+                            <span>اكتشف</span>
+                        </button>
+                    </li>
+                    <li>
+                        <button class="mobile-nav-item" data-tab="latest">
+                            <i class="fas fa-clock"></i>
+                            <span>الأحدث</span>
+                        </button>
+                    </li>
+                    <li>
+                        <button class="mobile-nav-item" data-tab="trending">
+                            <i class="fas fa-fire"></i>
+                            <span>الأكثر شعبية</span>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Genres Section -->
+            <div class="mobile-genres-section">
+                <h3>التصنيفات</h3>
+                <div class="mobile-genres-grid">
+                    <button class="mobile-genre-item" data-genre="أكشن">
+                        <i class="fas fa-fist-raised"></i>
+                        <span>أكشن</span>
+                    </button>
+                    <button class="mobile-genre-item" data-genre="خيال">
+                        <i class="fas fa-magic"></i>
+                        <span>خيال</span>
+                    </button>
+                    <button class="mobile-genre-item" data-genre="مغامرات">
+                        <i class="fas fa-compass"></i>
+                        <span>مغامرات</span>
+                    </button>
+                    <button class="mobile-genre-item" data-genre="دراما">
+                        <i class="fas fa-theater-masks"></i>
+                        <span>دراما</span>
+                    </button>
+                    <button class="mobile-genre-item" data-genre="إثارة">
+                        <i class="fas fa-bolt"></i>
+                        <span>إثارة</span>
+                    </button>
+                    <button class="mobile-genre-item" data-genre="فنون قتال">
+                        <i class="fas fa-hand-rock"></i>
+                        <span>فنون قتال</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Menu Overlay -->
+    <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+
+    <!-- Promotional Banner -->
+    <div class="promo-banner">
+        <div class="container">
+            <span>انضم إلى مجتمع قراء المانجا! اكتشف أحدث الفصول والمانجا المترجمة</span>
+            <button class="promo-close">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="container">
+                <div class="hero-content">
+                    <h1>أكبر مكتبة مانجا ومانهوا في العالم العربي</h1>
+                    <p>استمتع بقراءة آلاف المانجا والمانهوا المترجمة بجودة عالية</p>
+                    <div class="hero-stats">
+                        <div class="stat-item">
+                            <span class="stat-number">5000+</span>
+                            <span class="stat-label">مانجا</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">50000+</span>
+                            <span class="stat-label">فصل</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">100000+</span>
+                            <span class="stat-label">قارئ</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-illustration">
+                    <i class="fas fa-book-reader"></i>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Manga Section -->
+        <section class="section featured-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>المانجا المميزة</h2>
+                    <button class="view-all-btn">
+                        عرض الكل <i class="fas fa-arrow-left"></i>
+                    </button>
+                </div>
+                <div class="horizontal-scroll" id="featuredScroll">
+                    <div class="manga-cards-container">
+                        <!-- Featured manga cards will be loaded here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trending Now Section -->
+        <section class="section trending-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>الأكثر شعبية الآن</h2>
+                    <button class="view-all-btn">
+                        عرض الكل <i class="fas fa-arrow-left"></i>
+                    </button>
+                </div>
+                <div class="horizontal-scroll" id="trendingScroll">
+                    <div class="manga-cards-container trending-cards">
+                        <!-- Trending manga cards will be loaded here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Latest Updates Section -->
+        <section class="section latest-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>آخر التحديثات</h2>
+                    <button class="view-all-btn">
+                        عرض الكل <i class="fas fa-arrow-left"></i>
+                    </button>
+                </div>
+                <div class="horizontal-scroll" id="latestScroll">
+                    <div class="manga-cards-container latest-cards">
+                        <!-- Latest manga cards will be loaded here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Genres Section -->
+        <section class="section genres-section" id="genres">
+            <div class="container">
+                <div class="section-header">
+                    <h2>تصفح حسب النوع</h2>
+                </div>
+                <div class="genres-grid">
+                    <div class="genre-card" data-genre="أكشن">
+                        <div class="genre-icon">
+                            <i class="fas fa-fist-raised"></i>
+                        </div>
+                        <span class="genre-name">أكشن</span>
+                        <span class="genre-count">1,250 مانجا</span>
+                    </div>
+                    <div class="genre-card" data-genre="خيال">
+                        <div class="genre-icon">
+                            <i class="fas fa-magic"></i>
+                        </div>
+                        <span class="genre-name">خيال</span>
+                        <span class="genre-count">890 مانجا</span>
+                    </div>
+                    <div class="genre-card" data-genre="مغامرات">
+                        <div class="genre-icon">
+                            <i class="fas fa-compass"></i>
+                        </div>
+                        <span class="genre-name">مغامرات</span>
+                        <span class="genre-count">1,100 مانجا</span>
+                    </div>
+                    <div class="genre-card" data-genre="دراما">
+                        <div class="genre-icon">
+                            <i class="fas fa-theater-masks"></i>
+                        </div>
+                        <span class="genre-name">دراما</span>
+                        <span class="genre-count">650 مانجا</span>
+                    </div>
+                    <div class="genre-card" data-genre="إثارة">
+                        <div class="genre-icon">
+                            <i class="fas fa-bolt"></i>
+                        </div>
+                        <span class="genre-name">إثارة</span>
+                        <span class="genre-count">420 مانجا</span>
+                    </div>
+                    <div class="genre-card" data-genre="فنون قتال">
+                        <div class="genre-icon">
+                            <i class="fas fa-hand-rock"></i>
+                        </div>
+                        <span class="genre-name">فنون قتال</span>
+                        <span class="genre-count">380 مانجا</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- All Manga Section (Hidden by default, shown when filtering) -->
+        <section class="section all-manga-section hidden" id="allMangaSection">
+            <div class="container">
+                <div class="section-header">
+                    <h2 id="sectionTitle">جميع المانجا</h2>
+                    <div class="filter-controls">
+                        <button class="filter-btn active" data-filter="all">الكل</button>
+                        <button class="filter-btn" data-filter="أكشن">أكشن</button>
+                        <button class="filter-btn" data-filter="خيال">خيال</button>
+                        <button class="filter-btn" data-filter="مغامرات">مغامرات</button>
+                        <button class="filter-btn" data-filter="دراما">دراما</button>
+                    </div>
+                </div>
+                <div class="manga-grid" id="mangaGrid">
+                    <!-- Manga cards will be loaded here -->
+                </div>
+                
+                <!-- Pagination -->
+                <div class="pagination">
+                    <button id="prevBtn" class="pagination-btn" disabled>
+                        <i class="fas fa-chevron-right"></i> السابق
+                    </button>
+                    <span id="pageInfo" class="page-info">صفحة 1 من 1</span>
+                    <button id="nextBtn" class="pagination-btn" disabled>
+                        التالي <i class="fas fa-chevron-left"></i>
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Manga Details Modal -->
+    <div id="mangaModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <div class="manga-details">
+                    <img id="modalImage" src="" alt="">
+                    <div class="manga-info">
+                        <h2 id="modalTitle"></h2>
+                        <p id="modalType" class="manga-type"></p>
+                        <p id="modalStatus" class="manga-status"></p>
+                        <div id="modalGenres" class="manga-genres"></div>
+                        <p id="modalDescription" class="manga-description"></p>
+                        <div class="manga-actions">
+                            <button id="readMangaBtn" class="read-btn">
+                                <i class="fas fa-book-reader"></i> قراءة المانجا
+                            </button>
+                            <span id="chaptersCount" class="chapters-count"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Section -->
+    <section class="contact-section" id="contact">
+        <div class="container">
+            <h3>التواصل مع المطور</h3>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <span>baqer88@gmail.com</span>
+                </div>
+                <div class="contact-item">
+                    <i class="fab fa-telegram"></i>
+                    <span>@b_4qr</span>
+                </div>
+                <div class="contact-item">
+                    <i class="fab fa-discord"></i>
+                    <span>MangaVerse#1234</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 مانجافيرس. جميع الحقوق محفوظة.</p>
+        </div>
+    </footer>
+
+    <!-- Chapter Reader -->
+    <div id="chapterReader" class="chapter-reader hidden">
+        <div class="reader-header">
+            <button id="closeReader" class="close-reader-btn">
+                <i class="fas fa-times"></i> إغلاق
+            </button>
+            <h3 id="readerTitle"></h3>
+            <div class="reader-controls">
+                <button id="prevChapter" class="control-btn">
+                    <i class="fas fa-chevron-right"></i> السابق
+                </button>
+                <span id="currentChapter"></span>
+                <button id="nextChapter" class="control-btn">
+                    التالي <i class="fas fa-chevron-left"></i>
+                </button>
+            </div>
+        </div>
+        
+        <div class="reader-content" id="readerContent">
+            <!-- Chapter images will be loaded here -->
+        </div>
+        
+        <div class="reader-footer">
+            <div class="chapter-navigation">
+                <label for="chapterSelect">الذهاب إلى فصل:</label>
+                <input type="number" id="chapterSelect" min="1" placeholder="رقم الفصل">
+                <button id="goToChapter" class="go-btn">اذهب</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="auth.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
