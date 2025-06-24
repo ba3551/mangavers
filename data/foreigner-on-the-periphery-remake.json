@@ -1,0 +1,35 @@
+{
+    "anime1": {
+        "info": {
+            "title": "I Can Devour Everything",
+            "story": "مانجا I Can Devour Everything مترجمةI Can Devour Everything فقط أولئك الذين لا تتغير نواياهم الأصلية ويتمتعون بعزيمة راسخة، هم من يمكنهم إدراك طريق الصقل الأسمى ونيل حرية لا حدود لها.\r\nآن جينغ، أحد التلاميذ الخادمين ف...",
+            "image": "https://olympustaff.com/images/manga/7633279141951220077.webp"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_b1eec/1/4ac9d490de9c267c56060d115c73d330.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/1/62ce7262dfcd13baef627b7646f84ca4.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/1/5c4b907bedf30ce2f6df34227876e699.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/1/b1d9e886478d11f988f15b1472cd6c02.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/1/91847addbdf7fd03090f68b04cef780e.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/1/253fc272452cf1f0fc414263719be1e7.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/1/847ecac2ce56f5bbbea01ac847d5f6da.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_b1eec/2/33c0955fd4f8ece930e46ed40f0c4e32.01 copy_7_11zon.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/2/c16c79b6ac053e64e27d5d7b9e437779.02 copy_6_11zon.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/2/a946aa2985a9ac9e8d172ce9ea13f704.03 copy_5_11zon.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/2/91ef36fde8121db0936b7fcd35b637e1.04 copy_4_11zon.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/2/a8c2433c2372ae3fd000d95b95814913.05 copy_3_11zon.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/2/04990475733ca2053d6796100059e3b4.06 copy_2_11zon.webp",
+                    "https://olympustaff.com/uploads/manga_b1eec/2/f7fdec05e3fc965cff77901bbb3da3e4.07 copy_1_11zon.webp"
+                ]
+            }
+        ]
+    }
+}
