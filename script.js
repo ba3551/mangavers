@@ -368,13 +368,39 @@ function updateGenreCounts() {
     const genreCards = document.querySelectorAll('.genre-card');
     genreCards.forEach(card => {
         const genre = card.dataset.genre;
-        const count = mangaData.filter(manga => 
-            manga.genres && manga.genres.includes(genre)
-        ).length;
-        
-        const countElement = card.querySelector('.genre-count');
-        if (countElement) {
-            countElement.textContent = `${count} مانجا`;
+        if (genre) {
+            const count = mangaData.filter(manga => 
+                manga.genres && manga.genres.includes(genre)
+            ).length;
+            
+            const countElement = card.querySelector('.genre-count');
+            if (countElement) {
+                countElement.textContent = `${count} مانجا`;
+            }
+        }
+    });
+    
+    // Also update mobile genre items if they exist
+    const mobileGenreItems = document.querySelectorAll('.mobile-genre-item');
+    mobileGenreItems.forEach(item => {
+        const genre = item.dataset.genre;
+        if (genre) {
+            const count = mangaData.filter(manga => 
+                manga.genres && manga.genres.includes(genre)
+            ).length;
+            
+            const countSpan = item.querySelector('.genre-count');
+            if (countSpan) {
+                countSpan.textContent = `${count}`;
+            } else {
+                // Add count if it doesn't exist
+                const span = document.createElement('span');
+                span.className = 'genre-count';
+                span.textContent = `${count}`;
+                span.style.fontSize = '0.8rem';
+                span.style.color = '#666';
+                item.appendChild(span);
+            }
         }
     });
 }
@@ -420,9 +446,6 @@ function displayManga() {
     const latestContainer = document.querySelector('.latest-section .manga-cards-container');
 
     if (allMangaGrid) allMangaGrid.innerHTML = '';
-    if (featuredContainer) featuredContainer.innerHTML = '';
-    if (trendingContainer) trendingContainer.innerHTML = '';
-    if (latestContainer) latestContainer.innerHTML = '';
 
     if (mangaToShow.length === 0) {
         if (allMangaGrid) allMangaGrid.innerHTML = '<div class="no-results">لا توجد نتائج</div>';
@@ -434,18 +457,37 @@ function displayManga() {
         if (allMangaGrid) allMangaGrid.appendChild(mangaCard);
     });
 
-    // Populate featured, trending, latest sections (if they are visible)
-    if (document.querySelector('.featured-section').style.display !== 'none') {
-        const featuredManga = mangaData.slice(0, 4); // Example: first 4 manga
-        if (featuredContainer) featuredContainer.innerHTML = featuredManga.map(manga => createMangaCard(manga)).join('');
-    }
-    if (document.querySelector('.trending-section').style.display !== 'none') {
-        const trendingManga = mangaData.filter(manga => manga.status === 'مستمر').slice(0, 4); // Example: ongoing manga
-        if (trendingContainer) trendingContainer.innerHTML = trendingManga.map(manga => createMangaCard(manga)).join('');
-    }
-    if (document.querySelector('.latest-section').style.display !== 'none') {
-        const latestManga = mangaData.filter(manga => manga.type === 'مانهوا').slice(0, 4); // Example: manhua
-        if (latestContainer) latestContainer.innerHTML = latestManga.map(manga => createMangaCard(manga)).join('');
+    // Only populate home sections if we're on the discover tab and sections are visible
+    const discoverTab = document.querySelector('[data-tab="discover"]');
+    const isDiscoverActive = discoverTab && discoverTab.classList.contains('active');
+    
+    if (isDiscoverActive) {
+        // Populate featured section
+        if (featuredContainer && document.querySelector(".featured-section").style.display !== "none") {
+            const featuredManga = mangaData.slice(0, 4);
+            featuredContainer.innerHTML = "";
+            featuredManga.forEach((manga) => {
+                featuredContainer.appendChild(createMangaCard(manga));
+            });
+        }
+        
+        // Populate trending section
+        if (trendingContainer && document.querySelector(".trending-section").style.display !== "none") {
+            const trendingManga = mangaData.filter(manga => manga.status === "مستمرة").slice(0, 4);
+            trendingContainer.innerHTML = "";
+            trendingManga.forEach((manga) => {
+                trendingContainer.appendChild(createMangaCard(manga));
+            });
+        }
+        
+        // Populate latest section
+        if (latestContainer && document.querySelector(".latest-section").style.display !== "none") {
+            const latestManga = [...mangaData].reverse().slice(0, 4);
+            latestContainer.innerHTML = "";
+            latestManga.forEach((manga) => {
+                latestContainer.appendChild(createMangaCard(manga));
+            });
+        }
     }
 }
 
@@ -531,7 +573,7 @@ function closeModalHandler() {
 // Open manga reader
 async function openMangaReader() {
     try {
-        const response = await fetch(`data/${currentMangaSlug}.json`);
+        const response = await fetch(`${currentMangaSlug}.json`);
         currentChapterData = await response.json();
         
         if (currentChapterData && currentChapterData.anime1) {
@@ -635,22 +677,37 @@ function handleSearch() {
     const searchTerm = searchInput.value.toLowerCase().trim();
     
     if (searchTerm === '') {
-        filteredManga = [...mangaData];
-    } else {
-        filteredManga = mangaData.filter(manga => 
-            manga.title.toLowerCase().includes(searchTerm) ||
-            manga.description.toLowerCase().includes(searchTerm) ||
-            (manga.genres && manga.genres.some(genre => genre.toLowerCase().includes(searchTerm)))
-        );
+        // Reset to original view when search is cleared
+        const activeTab = document.querySelector('.nav-tab.active');
+        if (activeTab) {
+            handleTabSwitch(activeTab.dataset.tab);
+        }
+        return;
     }
+    
+    // Filter manga based on search term
+    filteredManga = mangaData.filter(manga => 
+        manga.title.toLowerCase().includes(searchTerm) ||
+        manga.description.toLowerCase().includes(searchTerm) ||
+        (manga.genres && manga.genres.some(genre => genre.toLowerCase().includes(searchTerm)))
+    );
 
-    // Apply genre filter if active
-    if (currentGenre !== 'all') {
-        filteredManga = filteredManga.filter(manga => 
-            manga.genres && manga.genres.includes(currentGenre)
-        );
-    }
+    // Show search results in all manga section
+    showSearchResults(searchTerm);
+}
 
+// Show search results
+function showSearchResults(searchTerm) {
+    const sections = document.querySelectorAll('.section:not(.all-manga-section)');
+    const allMangaSection = document.getElementById('allMangaSection');
+    const sectionTitle = document.getElementById('sectionTitle');
+
+    sections.forEach(section => section.style.display = 'none');
+    allMangaSection.classList.remove('hidden');
+    allMangaSection.scrollIntoView({ behavior: 'smooth' });
+
+    sectionTitle.textContent = `نتائج البحث عن: "${searchTerm}"`;
+    
     currentPage = 1;
     displayManga();
     updatePagination();
@@ -685,10 +742,45 @@ function filterManga() {
 function updatePagination() {
     const totalPages = Math.ceil(filteredManga.length / itemsPerPage);
     
-    prevBtn.disabled = currentPage === 1;
-    nextBtn.disabled = currentPage === totalPages || totalPages === 0;
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const pageInfo = document.getElementById('pageInfo');
     
-    pageInfo.textContent = `صفحة ${currentPage} من ${totalPages}`;
+    if (prevBtn) prevBtn.disabled = currentPage === 1;
+    if (nextBtn) nextBtn.disabled = currentPage === totalPages || totalPages === 0;
+    if (pageInfo) pageInfo.textContent = `صفحة ${currentPage} من ${totalPages}`;
+    
+    // Show pagination controls
+    if (prevBtn) prevBtn.style.display = 'inline-block';
+    if (nextBtn) nextBtn.style.display = 'inline-block';
+    
+    // Remove any refresh button from popular section
+    const refreshBtn = document.getElementById('refreshPopular');
+    if (refreshBtn) {
+        refreshBtn.remove();
+    }
+    
+    // Reset pagination button event listeners to default
+    if (prevBtn) {
+        prevBtn.onclick = () => {
+            if (currentPage > 1) {
+                currentPage--;
+                displayManga();
+                updatePagination();
+            }
+        };
+    }
+    
+    if (nextBtn) {
+        nextBtn.onclick = () => {
+            const totalPages = Math.ceil(filteredManga.length / itemsPerPage);
+            if (currentPage < totalPages) {
+                currentPage++;
+                displayManga();
+                updatePagination();
+            }
+        };
+    }
 }
 
 // Debounce function for search
@@ -924,13 +1016,19 @@ class MobileMenu {
         document.querySelectorAll('.mobile-nav-item').forEach(item => {
             item.classList.remove('active');
         });
-        document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
+        const mobileNavItem = document.querySelector(`.mobile-nav-item[data-tab="${tab}"]`);
+        if (mobileNavItem) {
+            mobileNavItem.classList.add('active');
+        }
 
         // Update desktop nav as well
         document.querySelectorAll('.nav-tab').forEach(item => {
             item.classList.remove('active');
         });
-        document.querySelector(`.desktop-nav [data-tab="${tab}"]`).classList.add('active');
+        const desktopNavItem = document.querySelector(`.desktop-nav [data-tab="${tab}"]`);
+        if (desktopNavItem) {
+            desktopNavItem.classList.add('active');
+        }
 
         // Handle tab switch
         handleTabSwitch(tab);
