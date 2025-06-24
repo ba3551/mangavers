@@ -1,0 +1,19 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Celestial Chronicles: The Lost Realm",
+            "story": "مانجا Celestial Chronicles: The Lost Realm مترجمةCelestial Chronicles: The Lost Realm في عالمٍ تتعايش فيه الكائنات السماوية والبشر، تنبأت نبوءة قديمة بظهور بطلٍ مقدر له أن يستعيد توازن العوالم. \"سجلات سماوية: المملكة المفقودة\" تتبع رحلة كايل،...",
+            "image": "N/A"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_6f226/1/16967cd3e540953d2306f2286cce030b.Comic_001.png",
+                    "https://olympustaff.com/uploads/manga_6f226/1/c59cea10f6b5faf9f9c0f29d93966037.Comic_002.png",
+                    "https://olympustaff.com/uploads/manga_6f226/1/3f62a640f9304b119aa0f0b50102c623.Comic_003.png"
+                ]
+            }
+        ]
+    }
+}

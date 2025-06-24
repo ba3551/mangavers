@@ -1,0 +1,47 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Divine Contempt",
+            "story": "مانجا Divine Contempt مترجمةDivine Contempt تعرض العالم للهجوم من قبل قوى غامضة من العوالم الخارجية، مما أدى إلى بدء دورة من الحروب العظمى مدتها ألف عام. ما ترك الحكام في حالة من اليأس هو الهزيمة الحتم...",
+            "image": "https://olympustaff.com/images/manga/1148611189620922966.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_3d2d8/1/df43b1ac2b812560d3b5e7301b9b4071.01.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/1/d2cf3b6a4e452b8383a7cacd8720330b.02.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/1/aa275f4e689c4623dd3030ee4ec50085.03.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/1/d1aa78a2d8f99d33b086f681a1536b2b.04.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/1/d08e3a62f55604fbf9ac62280dfeaad9.05.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_3d2d8/2/61715c1c557063cd2c796478b81e5826.01.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/2/93d90c7dd64f8436537cdab8b8f00b65.02.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/2/83b729123b4442a86d5c26c8e03102aa.03.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/2/c1837219689aae13e98f5a7e3e0a3e78.04.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_3d2d8/3/fa94fa4b63158419c5df0bf29b9b1dbe.01.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/3/2ff99f45cc22d8cb7ce7ece4d1478982.02.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/3/fc81aae03e4e8270efbbe3aa7e09d1d9.03.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/3/d67c766deb77a2fbc16f73412a110ffb.04.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_3d2d8/4/5d070055929852516f98a4e92ff27c17.01.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/4/c5443453d01977338109cd001b8e1001.02.jpg",
+                    "https://olympustaff.com/uploads/manga_3d2d8/4/66bee56f7259a5fa7f7c6bfe0611efe4.03.jpg"
+                ]
+            }
+        ]
+    }
+}

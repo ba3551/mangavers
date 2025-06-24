@@ -1,0 +1,37 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Chi Hun",
+            "story": "مانجا Chi Hun مترجمةChi Hun في الحرب الإلهية ، تمت هزيمة تشي يو واتحدت القبائل الثلاث العظمى في النهاية مشكلين موطنًا موحدًا لهم. ومع ذلك نتيجة للسلام قل عدد الأشخاص الذين يسعون خلف الق...",
+            "image": "https://olympustaff.com/images/manga/9730323191681700953.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_44c4c/0/2a93b2f43cd03e82fc99a329215f2395.1.jpg"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_44c4c/1/aaa240d17dd887789a8a8c32caf52b69.01.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/1/9f9cafeaafc52f18e783c56cd85c9964.02.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/1/ae72fef3f5db763508fa80683947613b.03.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/1/eac968df7703d131ec5dbce57215c8a2.04.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/1/bff4635ca18a1246b567288404a3c1fb.05.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_44c4c/2/9808454fd84c6c5d45ceb4f1a3f2e497.01.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/2/e25d9bec7881fd42e8f92af901c30660.02.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/2/64620f72bb13e10a236ea657e89a8ec6.03.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/2/6e21d38c09f749fb2920fb20924b32ea.04.jpg",
+                    "https://olympustaff.com/uploads/manga_44c4c/2/95615e05a4b6f1c0fd516b5be76647d5.05.jpg"
+                ]
+            }
+        ]
+    }
+}

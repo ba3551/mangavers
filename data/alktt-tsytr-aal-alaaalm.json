@@ -1,0 +1,39 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Cats Own the World",
+            "story": "مانجا Cats Own the World مترجمةCats Own the World ليس لدى القطة تشي تشي سوى هدف واحدٍ رغم أنها تبدو لطيفة للغاية، ألا وهو: إبادة العرق البشري و الاستيلاء على العالم! لذا تقرر جمع رفاق لِمساعدتها على تحقيق مه...",
+            "image": "https://olympustaff.com/images/manga/6340950412130523813.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_acc3e/1/c6ea995cafddf5db09d65629ffcac8be.webp",
+                    "https://olympustaff.com/uploads/manga_acc3e/1/f54758098c559ce30bfa7e64e9eb0ca4.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_acc3e/2/f68d9862b659bde2e15de2a8236f2c6a.webp",
+                    "https://olympustaff.com/uploads/manga_acc3e/2/c96d83e89c879f3d838ff7419a94d401.webp"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_acc3e/3/c92c51c8e0cc4975a16b7d7fa1716640.webp",
+                    "https://olympustaff.com/uploads/manga_acc3e/3/13278411176249addf8d90ee09670d9f.webp"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_acc3e/4/1034fbba410c3c2caa5f37eb5b6ddc07.webp",
+                    "https://olympustaff.com/uploads/manga_acc3e/4/d886b479420fe3228578a83bacb6c3d8.webp"
+                ]
+            }
+        ]
+    }
+}

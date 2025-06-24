@@ -1,0 +1,47 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Heart of Gaza",
+            "story": "مانجا Heart of Gaza مترجمةHeart of Gaza بين ظلال الموت، يقف أقصى الذي نشأ وسط الأطلال ليكافح ويدافع عن الأقصى.",
+            "image": "https://olympustaff.com/images/manga/228331521665417826.png"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_04ecb/0/3fbab7fbd4bd36c8c80878111b2bfc73.000.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/0/2bdb3b0a14581df584dc7beb1021cf7b.1.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/0/7a4b0a8abf7d81f09466bb483b2e865d.2.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/0/8dc729ffdf178095916b02c25c4235a1.3.jpg"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_04ecb/1/698c3c8025bdbaceb02dfc671b671358.000.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/1/21100f66906c99d76e3427b9c9a78729.1.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/1/57f7473e05bace0de02adcab663784cf.2.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/1/dd13f6d91a51b1517befaf2e2637113f.3.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_04ecb/2/4194aa39c97a4d20c859aa24ab361941.000.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/2/4950213198a56bb8ac040cd9cf917588.01-vert.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/2/9839b0cd5300174526dae6d72a3e194d.02.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/2/6c09eb09cdf4b4295525a32cb8cd4c53.03.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_04ecb/3/1bfae9f4bf50f743eb78273bb340dee5.000.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/3/ddffc5a57e81535e5a326e56e59deb0a.1.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/3/bae3dbc654e74a0d3def570aabd6bfd4.2.jpg",
+                    "https://olympustaff.com/uploads/manga_04ecb/3/c1b7f081d7e67339f5d8eb46886eb38b.3.jpg"
+                ]
+            }
+        ]
+    }
+}

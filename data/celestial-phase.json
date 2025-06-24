@@ -1,0 +1,58 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Celestial Phase",
+            "story": "مانجا Celestial Phase مترجمةCelestial Phase قبل خمسة عشر عامًا، تسببت الأرواح الشريرة في فوضى عارمة وتحوّل العالم البشري إلى جحيمٍ على الأرض. يكشف تجسيد روحي غامض أخيرًا حقيقة الفوضى الهائلة! من سيعلو...",
+            "image": "https://olympustaff.com/images/manga/1766283686492571939.png"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_67e10/01/1fe6ff6ff9d4bb74e6b3864a7264a22b.1-DsHONAfflaL0F-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/01/ca402f8b3fa7d3821ce9701d92b088dc.2-1tnigwX8kES22-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/01/ada739d7d62b3d5e0e755c4410e1762f.3-mbI3OKKM2YUrg-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/01/5732fd116257dcc3762f4a38da63092a.4-IpCNmU1Po2umM-m.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_67e10/02/70850a41eb50232dee17293fac0e0839.1-eZ8LYLizNRk6u-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/02/31411d12e92a8849a1f3fd1342b38a53.2-bxZuA99cK8x2t-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/02/3b958ea4c4648b84a3593dad13dd81e3.3-PX_JFcj-VLoni-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/02/061d00ff8ebab552ea46ee910135180a.4--oeUfG_yd4AYY-m.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_67e10/03/077ec5c50df09a468f27f305dc443647.1-lUPp1Pe1pUuTj-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/03/c21c12b7e10d6e849b93096e1a81626c.2-LV0u0ikFMsMKp-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/03/5b123e19aa8b3d6fdfdb36d9c69022cd.3-5IwZa2swCAKzP-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/03/b4720f11b64f2e8871d83409ed2b4fbb.4-YIiy5cXOV9WaV-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/03/2693b74588235adcc0d7d9584b7c404a.5-b5hOycyw5CfdH-m.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_67e10/04/0c03c0560fe769f90a816a05507e6d15.1-PhXZ7QxBELwFH-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/04/a95e5b98ac044e89d7b0240fa67ef760.2-dc39yh2QVz2an-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/04/eb4786028354bbc2ca5ce6c60cba370e.3-GJlSVpIaLF34j-m-Recovered.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/04/7b8b60ba595c8d95cd612b826f04c71b.4-3OuHFCqQPjSlg-m.jpg"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_67e10/05/5cfcc280f27d81c9455ebdad6e4ff935.1-Ea8zlIW2hm-aa-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/05/6d484581de0774f50d7815cc992f07c9.2-Ueoia_sGYPSeI-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/05/96367a0b6505a94812701102092922f3.3-5H3QK74qcuzqy-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/05/0bbca6951c1da9c5b9c6aeb5e4de22a0.4-KADQYVnPFInRv-m.jpg",
+                    "https://olympustaff.com/uploads/manga_67e10/05/45fbc9d9b7ac84dd814d04c30f099f65.5-pQVEQbG1w4KOZ-m.jpg"
+                ]
+            }
+        ]
+    }
+}

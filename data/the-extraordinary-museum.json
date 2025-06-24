@@ -1,0 +1,71 @@
+{
+    "anime1": {
+        "info": {
+            "title": "The Extraordinary Museum",
+            "story": "مانجا The Extraordinary Museum مترجمةThe Extraordinary Museum متحف استثنائي هو قلعة ضخمة معلقة في فضاء مقلوب. بعد اختفاء أختي، وجدت نفسي الموظف الوحيد في هذا المكان. كيف يمكنني حتى أن أبدأ وصف هذا الشعور؟ مراقبة أعظم مج...",
+            "image": "https://olympustaff.com/images/manga/2748664521886248049.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/14eea519cc83b5a37ef38ddcae0c0bd6.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/16d129c621d1cac20bf3c95759565ccc.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/4e717b9197e9634473be5a25413653b6.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/c67a24b99f5f2ef59f751ff5d2435b22.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/799ffd4aad19f255eefb29d588b522ef.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/aaf0f5c0ea6bea6e6301a3184a4ae058.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/c764404e131231574b7f98f52c360548.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/75b3d0ad737fb57cfb0b10ad4ef73a28.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/1/5d679ea2cc95ca4347975e8c75a7a1f8.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_d4c2e/2/b8146048c2719b4f0125e1795084e62c.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/2/b36fbd6a68c5ef620dea99e112120153.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/2/7ab4eb55fdf175c0cab9a88b2652eb5c.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/2/1f195b023c7de08621d6c87aad557988.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/2/104d57f798e0d7ea67066f078ef89c0b.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_d4c2e/3/2eb90e78c32c37711b96404c6154aacc.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/3/9030b131ae75b6f44330d0a7ae80d703.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/3/7d432e556d4386165ff39a0133e05f7d.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/3/dc7ea57b5a9e6e2c791717235b31a7de.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_d4c2e/4/4a35d43a7db35d9c7223690a1882e90f.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/4/2fcb11c37fd7f1d6935fb57d839725bc.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/4/8c929a5cf803cf5edde509f89ae18067.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/4/860624dde8358bbd9889f7e55149253a.jpg"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_d4c2e/5/d26125a593577a068c47a3e2974ed757.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/5/25d53b3531f815bb4fcc7dd5cdfe1624.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/5/c8e9ce76d577915dc5a6da511a21a58d.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/5/dfe565c5115f5059177ef6ee626062fa.jpg"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_d4c2e/6/3a17dac6bda25f038adf0d96673aa5a5.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/6/d0039ff72e37a10fc1df14c68aaf3763.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/6/0b54af2f7410441e89b72b954241583d.jpg",
+                    "https://olympustaff.com/uploads/manga_d4c2e/6/c53b1cbabc55c8422bc4a131cb3fb3e1.jpg"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Starlit Odyssey: Quest of the Ancients",
+            "story": "مانجا Starlit Odyssey: Quest of the Ancients مترجمةStarlit Odyssey: Quest of the Ancients في عالم بعيد مضاء بضوء النجوم البراقة، تبدأ مغامرة ملحمية ستغير مصير العوالم. \"رحلة تحت ضوء النجوم: مهمة القدماء\" تتبع رحلة ليو، المستكشف الشاب الذي نشأ على...",
+            "image": "N/A"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_ccb09/01/239fe7c277907cc23a44772dce516c7c.Comic_007.png",
+                    "https://olympustaff.com/uploads/manga_ccb09/01/2df9ca6bdcbd5745f285118690e05e06.Comic_008.png",
+                    "https://olympustaff.com/uploads/manga_ccb09/01/ba5bbf29392b039d4b7d2c7266f1f0b5.Comic_009.png"
+                ]
+            }
+        ]
+    }
+}

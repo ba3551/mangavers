@@ -1,0 +1,55 @@
+{
+    "anime1": {
+        "info": {
+            "title": "The King&#039;s Avatar",
+            "story": "مانجا The King's Avatar مترجمةThe King's Avatar في لعبة المجد متعددة اللاعبين، يُنظر إلى يي شو على أنه كتاب مدرسي ولاعب محترف من الدرجة الأولى. ومع ذلك، وبسبب عدد لا يحصى من الأسباب، تم طرده من الفريق. وبع...",
+            "image": "https://olympustaff.com/images/manga/722579011173334597.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_5c049/1/782710b4a56808703cb288a825677c16.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/067299e30c96512d96a3de3528d62afb.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/f25c45b5bc59a4593cadb15b5005ca12.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/7cc965ca665a3e9ca67b3fa34461e3a4.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/10e8f3039977ddb6b5bc56ef5c421684.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/4c9f604813a95b8926f14e7e085db476.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/2eb934b125631f08e99687cb298d9761.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/2bc3d6f87deee575751d79a57557f1a5.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/dc5907ce641acb8a72d243942ba277c9.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/1/acaf43c63ad09a265feebe8090bc0a06.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_5c049/2/ec7270e8fb3de0e7a22cbea651cc0ed0.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/2/0cc97c3e48fcc2302f3dad4282ff3e76.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/2/f0764f450dca56ca589ff91152a81b97.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/2/f98240c42f0221744df8e6637039ba75.webp"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_5c049/3/56f9dcfdba3fa1d04ac4179eca6807dc.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/3/5cd87c5437675e4403c29dfb3fa83801.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/3/85cc37dddd730f1ce49704dc83a20682.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/3/e14f1fbf4fcd9063c266d5d918c51382.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/3/02630de54be7cb930bdf7df2527bcef3.webp"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_5c049/4/f5fa19caab128be12fd85e1504457043.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/4/144f7dc036d882c3fef95ad6eac290ff.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/4/5a35fb7d37efd5663e5348b533a6de3e.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/4/78bca354faec1758f239ddec31f485aa.webp",
+                    "https://olympustaff.com/uploads/manga_5c049/4/dfae4c49d8a1cacd7d5603c54f38a452.webp"
+                ]
+            }
+        ]
+    }
+}

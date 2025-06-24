@@ -1,0 +1,81 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Yeohye",
+            "story": "مانجا Yeohye مترجمةYeohye في سكون الليل الحالك، اغتالت الملكة زوجها الملك معتليةً عرش الأمة.\r\nما السبب وراء فعلتها؟",
+            "image": "https://olympustaff.com/images/manga/2016034617991437429.webp"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_99c5e/0/b5a729b31b6f031194f5e349733a7d27.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/0/7fe0cda4b01baa482f4bcb7830b37378.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/0/32e74b2ec14d82a1343d0d7d68ed4c6e.webp"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_99c5e/1/2701388a03326135825f65bbfeade7fd.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/1/a8c7d7046925e0ebbe01233437eb51d5.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/1/4b0c3b016e232edbc3ac0dadf9998e47.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/1/0df9a0a0ec1082582df09b8a2a36cbc5.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_99c5e/2/4074bb810dfbefdcb472a4c76f0ea7e3.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/2/2b5885fe1092d37d3f8692aaa8381dce.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/2/cc4325105768abfa422a66dcbea8c2b4.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/2/28de996ee84780d702f96fd39533ffc2.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/2/30c4257b7aa48152f258ec4e2d0bffce.webp"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_99c5e/3/2e947754c0323ec1dbb11f027d47f0a6.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/3/7bcc885a1dfd901d8ceadb81e852f66d.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/3/eed3b9d3ce4490863edbcb6d5cb57a91.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/3/f3376fd04a9419cbef1e690ab5566080.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/3/5ad419e2a74739c6cd20eed0cabf8269.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/3/a39bd97a2c2d4d4c020af01904c1aee7.webp"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_99c5e/4/15f020375b53c1c809c770eb8ef5fb7a.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/4/af64070424207de4a8bc316f7ae1df20.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/4/25631a485d5931acf3d4b58ec97adca4.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/4/fde96d39260259f9495f28def36dd26c.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/4/e47f26d2aa405ae9bf3c789bd8e2bd47.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/4/91a968ec87d98c26e7d596e9558bb358.webp"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_99c5e/5/578de836dff68962c12e261c43a11769.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/5/2f441058a3f1d929fe3b06b5d6d552d3.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/5/01fc72a417cc0ae6edeff01ebea21f93.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/5/93575ee2828eefcdf7c7dcfdf2168b18.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/5/e129f399bf4dc3feaf1d4e7831188114.webp",
+                    "https://olympustaff.com/uploads/manga_99c5e/5/9a56eadf2cf86e9018b3d2bf018cd3fc.webp"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_99c5e/6/283c03be86118cc73cc4be2f1910e784.png",
+                    "https://olympustaff.com/uploads/manga_99c5e/6/e7d52a4a107791171b9eab6cb069c900.png",
+                    "https://olympustaff.com/uploads/manga_99c5e/6/2c474f8440c68053a2351708d06eb3d2.png",
+                    "https://olympustaff.com/uploads/manga_99c5e/6/f08b2793f6593f58061279ba76385267.png",
+                    "https://olympustaff.com/uploads/manga_99c5e/6/0d6fdf3bcaeb17db072f54365c43be17.png"
+                ]
+            }
+        ]
+    }
+}

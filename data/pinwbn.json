@@ -1,0 +1,753 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Hyper Luck",
+            "story": "مانجا Hyper Luck مترجمةHyper Luck في حياتي بأكملها كان حظي سيء للغاية، كل هذا كان قبل مغادرتي للعبة..\r\nلي كيهو، الشخص الذي حاول تغيير مسار حياته عن طريق الإنضمام لأكبر لعبة واقع افتراضي في ال...",
+            "image": "https://olympustaff.com/images/manga/1699070745.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/62ae5c74770a99b0001205d5cfa284e9.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/ad4e8d31fe3f3e96f232112f95195330.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/c2fbc66af693682119f9107bf8eb022a.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/882ce6ed65f770342869d629bdd92336.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/08d00b796f0a02a8bbca6c700fff3291.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/bd0c33b6721c25577646f0f8d8bdbc84.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/c5c0776beffc0299b7a5846cf58dc20f.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/7c95b6d5b0794b4fac49e88ca3e7dd7d.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/02922629aac4061b8d9ad3f5f927e561.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/9553eb55c709955e55e338fd1c37a422.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/1189abaa7d8a3fbd57856987531e97ca.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/416f0d0aa1c8afe7ebbc686ad5a79043.12.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/0ead2a3ba8f8b0fb51cce08ba7f5a3a7.13.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/3f88666588bba2317f23257538478a03.14.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/1/d6721a4c533243e1d1aa5be06a61bb4f.15.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/3de817d450335f56553a7be76837aa91.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/0339eb463951e5b39ea05f4d8b9fbb9a.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/2034aa0d3a85c984e0aa7014c73bcfee.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/83d577a8eec82c34254bba102c3f9ba7.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/6d77567e598fc1f9afc0bad2a228383e.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/7426f18d58bf0946ad57c2b745e5db16.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/907fa16ce4447851df0b29dac4a6a20b.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/ea67d4ed592f0ef513d8f911a8c410ea.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/1988045857d1faf298d645b849ec3a19.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/b12f912ea51c806bcb428b074125a18b.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/2/7091602cd2177ed488ac108f60d1584f.11.webp"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/518fec505bb7718124173f9bc0ef1db2.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/a0569567b4feab09aaa0fd36b973aade.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/3acc0568e622626f5234a49ce41e6246.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/27a2e2e2e3e93f2cd491dffeea03aeaa.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/040cd63d7a97a0d5966a3184a8f7addc.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/6c8d18470c22a63e05f79204ed2c2dde.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/45799f8120a9f9c0c8252653f6a84d1c.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/8f93ae1f148313ff9e76d5b1bb6f4b6a.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/82812a442ba6bcbba299a20be54cd7c7.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/3/287ebaf924b38e8849e3fe85f765bf27.10.webp"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/f40801c32c1b876be8fea62e0e25e340.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/8df9564c5a7069241eef8dbda8f9156c.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/d93489ef9f8f8b173d16d9a860f75a15.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/db40c75d728b19a9b7b8b9da089029af.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/777141c6d6f96a9066b6cffd737cbb36.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/35c21ab844c49b8c164d359cbf3e888f.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/3417c8724d4349b6f816bbea48521d39.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/355f7f64d22cfa742ad965f6529f0988.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/6ef853b66ef05796276b2f132b90b9ca.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/e16de3b88818b635ce4dd92369f3935a.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/4/104744d1716f84f91a17b1801f976006.11.webp"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/e204144447aafc20b85d28412a1dfd23.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/6a99b8481cdd9c9904420aa0b95e2d5e.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/b55fc33056e6b0918ad8d65de955253b.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/74357c75037f3ea4acb142052fadd0c7.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/0ec53ad1d3cd3645983b927aeb0ac84b.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/10b28546ab99681dcb9074ded34168f4.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/1f47d32140d42ffc10c823df285c8a99.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/b658d8b5f1bcb23d63a557f96f3946d0.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/898165159684e348c283c5867d063364.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/698379409224036ab45764e8a8b25f0e.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/5/79b239a255419eb7127c4a455a6b32cc.jpg"
+                ]
+            },
+            {
+                "chapter": "6",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/d4fae9c95c3a3260a739777615a642f0.001.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/4aa34bcd8cee15f4f7f7502fb4147c0b.002.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/c0e1b2a4b8dab07a41cb414be122b4bf.003.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/29368257d6e79157e21f29ce55260bee.004.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/4bf4c8657865c82351cf324bed04fc1c.005.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/570a842f05a061091f24dd13cbecfb8f.006.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/754a6d5e7746fb0724a13dd45c7180cc.007.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/6/544f6a6711d3ee8495d02a2e06479aa7.008.jpg"
+                ]
+            },
+            {
+                "chapter": "7",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/f436789bb1d85cd0c930dd07c20f7533.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/e116dbfabc0bd7dfdc9c994194ea1bcc.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/f835b98aef8692490d73c06b051541bf.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/b27a3f785374a4f6fa6f81354e4c1845.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/588d48804fd582e01fcca45fedb2a218.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/2d71e564555391e8995986e95caedc7a.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/9f48f02600d183f4f9c50d7c0a1dc296.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/07126fc219abba5886559a0d97c014fb.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/9192943ff78927bdcfccfcfdeba57aa9.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/7/138515368919984dd1be04d959bca3ad.10.webp"
+                ]
+            },
+            {
+                "chapter": "8",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/636fd3c026ad00c07c99e11c3690a0e4.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/3749fc90695e471eb2ee266ce9d61732.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/f798b2abc1b58a39e559d1a1dc329469.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/2eefec7afe7d6a67942a09d07f112fde.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/f543f44a2dd8a52254394c5a196574b3.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/ab2957d56ef36785f171914c46d8468b.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/d15b045a0ff285b9e24fc6bebbf07377.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/7d900158df6eb90540da1ca4767bd328.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/0ebfde20ccf2d04a6c181000edadc500.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/36f4b4b00f6c8963306f00845f9e4615.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/8/8e3cbab26f9fa09c1416417fcaf7e3ef.11.webp"
+                ]
+            },
+            {
+                "chapter": "9",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/c7ea630075614ad94f09093adba056e3.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/9b5aa1bdf8449f736536e174db11768b.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/0a88c12143462eecdf221723ee91499e.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/a7143c7737539c58bfc6198b5a295e30.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/c3394292362eaa96928e26e028e7ddce.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/85a05d211feed343e55d08ccedc84d7c.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/c191bed4a06d46c99af852f2a093dfd3.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/c3a1b5ad9e2d57925cdf2cc894b50f42.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/20f8f2563ecf210c699206a204f1a902.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/9/7040b8db535257fd6d174d99c8546a92.10.webp"
+                ]
+            },
+            {
+                "chapter": "10",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/238ee3f348c1f7c54ec8f141d949ab6d.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/c56f88b2a5a859dbd5845997b4a8a00a.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/0b89cf83b1ad78cb4cc4e9636cf87025.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/357340f962216f206007d3bf1ccaec55.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/51a89981255ca5e36ffdd23b1e407a24.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/813ddcec56b3d71fea662eb8c83c1ae4.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/7512f8efa261002d6b47ae07ed20e32b.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/7b89c374ffc490f27e3d4f0fac2a66a2.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/e2c85f7cd1c48483ff6771543f667ab8.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/10/238963f4308d7910fc49157b9a481d49.10.webp"
+                ]
+            },
+            {
+                "chapter": "11",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/b7a3ea6951a6b08422bb3d21e947deb8.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/ac575e62b1758b89a3f27d2152f861fc.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/8c0651b2f6a01093f5ef8e1662dfeea1.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/41cafc46b945103e33aaf74b35db0e60.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/c86f0bac90c1f8c3f6903ab35587d730.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/4e622bebb3c23c3cec68e747633ea666.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/88c8bc27f5ff0b5dd2c28d94c8845e43.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/11/84e7601bf341411eb3e5f3a1d1c6b9d7.08.webp"
+                ]
+            },
+            {
+                "chapter": "12",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/aa7b6a202ba7a81e53aded16a3cc82d2.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/d87f1dfa31d7b13a73bd7aaa174f748f.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/ea757ee661f97074e654ff13d570403b.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/eadc852e6f3a703104a0077815546107.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/706d9f81b661b1d625a9ce069cf7ec6f.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/a5efc16720d29292f3b0f4066180aa16.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/84df5b1ea6004dac242ff52bd0ef8712.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/0a22f0147de44f6b682525a9982bf63c.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/12/eb774cf0e772099d8862c3b465b58418.09.webp"
+                ]
+            },
+            {
+                "chapter": "13",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/47c5007bb72b8be292d3209c300b5eb7.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/03ab5157de34dc0374d09da1c2fc5241.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/a4e0bf7643196910b51726723aeb42ab.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/dd0f23f036d5e60954ee9e9c078db3ad.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/aef47bf55dd8f52854d1d4945fc15003.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/e42fe35b5bd0b5fe74d4ee40ebc297f6.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/98e1a369195cf55b6e5468c033073324.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/22239224867d8e359cfc83874eb2fb19.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/13/2da5e66b597deb7d871c023f70ae2d65.09.webp"
+                ]
+            },
+            {
+                "chapter": "14",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/ee6d9aa218b7740691e4a841e79bd2e8.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/d574553056753062dcd4d2eeed8f8c06.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/29a25960fb80eb3806857fa734c281df.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/8239b5f1ba19475b4504ca02b77f97a0.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/b2a03813e3afdf40b456177e74bde795.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/262edb4c1c19a2c6a7ea870f223f09ba.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/0f79e2c6dddbdbed4f99c7248f936e34.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/972171628e958b52bf3686a8fb2f2483.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/14/631c87e01a006c3c6e37eb01fd9e4eb0.09.webp"
+                ]
+            },
+            {
+                "chapter": "15",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/787f2cf19203af9ece986f320aa968ba.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/6727850233297b6cd3884e25c7b5fe73.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/d3321caa0538e6a660f4fcdbcdc680ed.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/2223f136a5d7a75c2b9e113dd15123fb.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/cc9cceb9612656b14703bb376eafe46f.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/ca71028ea83ac36da0707e7eaa4d7e2a.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/f944580dee061d3de3ad17082171ec18.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/5aee7ca9d9df32efa61733e1c84a2cf4.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/15/abcae143f2dcd70a3fa29e30ced0d774.09.webp"
+                ]
+            },
+            {
+                "chapter": "16",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/0ae95acc2223c3b137ed7aee1cb15d56.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/fd48cc80b789aadf408486938a922c59.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/0689312aa55097f3a556386e37e9dd7f.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/03909703d4f4ae0322229b87b70c9632.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/78e27818d4e768567da7fd6cc7bc3a9d.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/438b72b184902726c977d63d05254587.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/c2233bd2a210d25aa4d86fe95f7a44cb.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/d7ffb36140959a80c916d839e8876e2c.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/16/abcbb07a63f78c3b8d13e710f4668d55.09.webp"
+                ]
+            },
+            {
+                "chapter": "17",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/8f22a9d2cc395dc4ec3185a942f14472.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/2f34477aed63c9c292d5e0a915842d6c.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/0d5987e35c34f5e9e2f65703977bd519.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/7721631408d0ad29e666115738a7ea7f.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/38f7fe7cd774860224d1bc2b342d31c5.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/b8a7b7d8c4156e59bf1cb494bccf9a05.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/3d62cfd40f6a230e057817f626fee540.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/5d03c502ff924e69d832903cfa9a5b8c.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/17/c1825535c989ff349d5eeb36d04f765a.09.webp"
+                ]
+            },
+            {
+                "chapter": "18",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/de03bcdb87bb7c9223e926255e817b8f.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/e67637f3f8aef78623e48c056259af98.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/933008d3df94e7f26a3dc9fe8232335a.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/e0f6220907d6164c8d3fec952ab29549.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/2d32c155fdb37014d23756f3fd6b9c30.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/c683f9703c68359aeb0c0250d9aad330.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/b30513064795897c277be2e4df654bf9.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/18/edf078df85498cdbef1d48219f88e840.08.webp"
+                ]
+            },
+            {
+                "chapter": "19",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/35767ac572a56b7d4863ba3dc14e77d5.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/106bbaa16a109cf95d054ade404f26c8.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/4686a6adc08fd3d630d640aa68f537a6.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/288537bc6198053f8b2305d1007d7ed5.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/919629ca0cd4b8f8547dbe0d31291600.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/468e4908463ad5e94b7a1595141d3474.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/095ddab88e24d3c2af0504c7e6e9cb13.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/6c7b563fac4ceaf4908278f1cd5ff978.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/19/4e2c9a2042852a38cbf83a77fdcffabb.09.webp"
+                ]
+            },
+            {
+                "chapter": "20",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/2fa4d4c99e918456a7d7b07be695b5bc.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/7d142c752908f5f441670e9a132630f8.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/8ff94cf51f7128797254961354d417f7.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/0f2d8d8728ab6f339c0e3a01273fe71d.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/6ba851c740c5e7bf58b52181562d08e8.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/03b489f1b2603fe096e9f504fc19dd35.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/0463b89444539958b7a7b11444613b61.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/253aeb92fb4f26df2367f18bb4087967.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/20/28a1585499ab5808c2540a5a2720f432.09.webp"
+                ]
+            },
+            {
+                "chapter": "21",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/f4adb5d94f5b9585160ade575d09a86d.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/9c6416a1cfbb49a304602f87ba9f1419.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/2605c7a78f6525bb527c1d84401b8a67.03 (5).jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/3791db722fcde10d7352e4ba98e5fa9e.04 (5).jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/2b0e3206a71d7f27b59d6e39b256cab1.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/1dd0122bc2d57b845033601e3d55f302.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/233c81e1295d9e3dc4ee42ce98ce1cca.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/11fbc60ac93040414958c83ab1ae7334.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/125ab327377200c5ddeeaf118ee4e25e.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/7946287c8d7e86d99d0d9c0901b83db7.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/21/9360848b494b51de576e5aa57c893b6e.jpg"
+                ]
+            },
+            {
+                "chapter": "22",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/01735d4045747307c5a6825e4704d794.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/11e2befa9feb23c180af9de1b23932fe.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/c15d5f6f2a26c5c5dbfa926cabba3721.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/ab88b70881ce405bfa9dc34d92d2609f.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/fd6cc6b5d5af8aa1f910812a35358b8c.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/13d5323543034df726072b1951c5c8f5.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/41470dcb2731948ea24ab056831a348a.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/903b360342a0ba4648b89c13e971b330.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/aff3de633e76e4bae8bd537b4d042d8b.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/c64352fc2e85317e4dba42a4771df6cb.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/22/e1f4e944738893f643b07c1969a4421f.11.webp"
+                ]
+            },
+            {
+                "chapter": "23",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/a733be5de49f8c496d41e8d0c573ec40.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/5f83469f2a05f3f49cfb6f70f7dc1236.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/15e87f52fcf9c12518727acc1c60beb1.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/8d7bf50fdbf5e076697d6a1ac460dcd0.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/9a25a46ac8821a2c311f042b52c5304a.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/1e76328712913579a27755d376d46cb9.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/61b74f778b09b7cdf2caabaa8f884960.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/79526585b7ade796696b6756600b9bf8.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/e4c6b951ec82b4f901198e426ad19d1d.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/29dddff84a6a1389fc7827a9da452bea.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/820f56305244463a0439e8c7bfdf0e85.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/23/ac3f13f106a4578ba174523438561bc1.12.webp"
+                ]
+            },
+            {
+                "chapter": "24",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/d3fa53a0c83176ea8c1994ddf72b6743.101.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/bcc45a3c148ea04495bd47a1728e685e.102.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/286e75b06af2e935a8c93a67f9814a2e.103.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/ed7e11efc7d4e850794c59f94e1ca48f.104.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/f2486403e25e495e5c865b6e19b37d41.105.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/41895f134441d78b7f686b306359faa1.106.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/fa165b866994527731f8da4b04f4367d.107.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/1295539f985044686be2abe1f2d276ee.108.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/ece9a88b591a8688cb08bfef906d5572.109.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/a4ba0a550fb509613e68895cd57aa9b5.110.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/e20cdd579bcddbb7c81eb8ea81814f4f.111.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/dba0e5fb70a021f95f8e88b9e64ca130.112.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/0c55d28343abff208b0daf9518f3ba80.113.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/6aed4a0d1a66ad62357bc6ad24918e13.114.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/59803572d8dad41ca3fbfac20377e31b.115.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/24/7727065c397cfe741330c696c30b0f2f.116.webp"
+                ]
+            },
+            {
+                "chapter": "25",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/1ec4b9b27f109b67426d059b35dea876.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/be4b12be7f3b81fa9ee7a41b65a9ff56.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/8aadeeb54813680afac8aca34a0953dd.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/4713ab99c8b1e66c86abd309a2c2c47a.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/777243f41432c41c66e21e3cbb3e0122.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/f56fad790a0c88d6e7ae687868a6dfe6.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/15a4d992d94d3f31389cccf95d8f2d54.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/37880e3cfb2d5dd8f1b8948a8db15518.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/00c15164533fa3efc4d786e48f14d9ea.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/0c0451c41254d370893f8728dcc23a00.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/5c3f0ceac0ab89225eef21931252e101.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/25/a577fb342d0e6cf962245d237b9d97bb.12.webp"
+                ]
+            },
+            {
+                "chapter": "26",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/ce4e084a78179557401e99e40258250b.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/c9ef710f6292dfe0ed74a54a5fe07572.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/563d08adbc1ac02395e849a306cdf149.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/f6221df9fdce0cb3d50adbfc165c81f4.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/b3aaa1b11c07abb53e201185d8b0bf4e.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/bdc2eb09116dc23a443455b607fba82d.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/a71a215c9d77e8d73743e8d401f9043b.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/77b834346cae90c82d79d44bd2355559.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/282bed7f4b6133f07db71dd038bd6565.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/0c2306d8a25323d906480655177313b6.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/39c1ab91645139c7f886d00663ce265b.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/c98a54a8ca919bb9e1fe58a104cdfc62.12.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/26/8ff2ed9cbcb8c26b83ae43e53383b88b.13.webp"
+                ]
+            },
+            {
+                "chapter": "27",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/f39c1192e6b9a5a0aa5f634fdae07c57.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/eb7bd83de3da86961fbbfbad46d7f62e.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/556130e06799a37e24a7479b4bd2ede4.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/34e6fd14d496cf5ad20ab4f4d9cce106.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/23a3750bf47b176dc7865ea1203ffdfd.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/7d3cb4636c2634359d505a3f78672047.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/db0b10c2fe48788d460703a69a3f18e0.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/23639ca1f2567d03c9212fb13e9201d8.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/d5965610b74b7bea11f83eb060a58fcb.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/927474c51942fe8110bf8b09a13bcb83.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/7f038922c3bba7b567fd096ae88becf6.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/27/da1e7a7daac6892fddf30916b8503fd7.12.webp"
+                ]
+            },
+            {
+                "chapter": "28",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/afef3b5c901fb5d346e203bb2e25a739.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/8169b032b7eaecf4cb9a5119f74fb7b1.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/b61abbe9b8bd200eda644f37f2905d92.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/3384e08a864a3bb8d50162b14e96bbbb.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/1eec8c9b5701e9590a8d42b78b51e0ce.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/eef09470fb8ea552a466b4b3c26e5a11.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/eadb65011c41ee9578d408e9c3747c8a.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/6a66d6939bd325d90538cd9541351f43.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/195e76c8b7cf8d63676f3b1a7fb73bc6.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/84681be39866ecbc5f4ba058a7e93094.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/292042c56af4938d801d1a626408971b.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/9e608d2e1fba2d311ff39b89efc866d0.12.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/19e2bd46e0fad4ae0d586af5fbe3dfa3.13.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/28/d5c894b8043350a52702c30867e2b9cb.14.webp"
+                ]
+            },
+            {
+                "chapter": "29",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/c4bcbb53ce95d028b97c1061bcf9dccf.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/22f62700e07d75cc08fcf429ee8d0fa5.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/29fc591fb03a02406cf0ce160e465f0d.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/d3857f6936c1759b8a8954c5dddbf024.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/35fd9c963c982ff27ab7bfd23d3eb9e9.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/950937dd240a4c3f49f77d2329a84482.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/dc768e55a5d4a5eb1d8733102ae59dbb.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/4b78cd1995be1ed65525d2ee95c297f8.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/7f07aa2bff7228bb998c4aafdd5fb384.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/442beef2abd709b0ac28b4d9bafbe098.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/d60559beb2a368af9d470964ca8d4b2c.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/29/4ddd18bd29247dff848b8045ab632a99.12.webp"
+                ]
+            },
+            {
+                "chapter": "30",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/69f3b05f5de56349e859de7d193be6a1.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/590a9368dc25c0f0c2a50490898c57c1.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/d49b3549a0ad96c003262c48e2f2c965.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/40b00e416e6bfed336055f5c180fa344.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/c6d5f49bc56271eea771da1e70998b01.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/2ca1b41cd967cc775261c72b98261eaf.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/e9f085850d9a7f55e4afdf0530291a85.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/e0a69b9f8fdeb763c874e37317cbfaf6.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/4e423dbca4317359507f49ef68ce831b.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/a85a799242459e434cf6d18d24dd5bed.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/dc50d813a8700fd6a118c8f4d2d6a5d4.11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/30/ebbc76470b1e4abc8c1ee54b9f35408d.12.webp"
+                ]
+            },
+            {
+                "chapter": "31",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/eb3db5dc55b5b5080fdb264a023f0f47.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/c58257ae3234cc5f5a80c039b91ec097.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/f36b31f21b77b8ff1a2fc59bdb232d08.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/f1902258ad7c2a017b0c488148da344c.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/ba7b233c6a027e30f09e968e78a13b78.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/d7832fcfcc02b14463304bff89a7ea6a.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/80ac7a3d0668cc6a4f40585cd62b8da4.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/357007596045c93c452a78b553f09642.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/94de0324640a95a7050a06f516e1d90e.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/6a1cce1802dc46e0e48593e4fac8cf77.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/31/1dcea2e69490817d960d0cbd53a80621.11.webp"
+                ]
+            },
+            {
+                "chapter": "32",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/35d119aea10a3bfebc9307eee90a3421.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/a283925e3efe954dacbd719daef87642.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/1846852fd0a212f96514bec000bf9800.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/f6b92033c47561031d87ebf61e652141.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/0ec66edfaf1af7af5d94c8ae48b21357.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/3b5e9c11d107083490cd0dc7a193520d.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/108466d0f2875797e1cde927392d267a.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/616a1408e3d930e157804c07a0b7aa70.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/2d841668a04e7e5298cca8b0d7f97010.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/5679cce1369e7bbbe18318bcaf91990e.10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/32/72d1aa2720a3beca5f828bf7a6dd8816.9999 تابع عملك.jpg"
+                ]
+            },
+            {
+                "chapter": "33",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/a0bdfb789a88cd51f9ebae04e8a3f9cf.01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/6cf8ff8e8f6a1685d0ed73d1a903f9b9.02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/092f836a6322eb72823e322695e38fd5.03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/e5f0bce47070d10dec52dd568e99db9a.04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/d23007cdedbed33f9ec047535faf4c29.05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/94662af6b6b0dc9615e9c8d00a847e9c.06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/27514769b364d0b5513d12923b1dd165.07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/8f1de4be5fd98f7c8ee0dbf91fdeb355.08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/2be04cbac8bcc36ed317c079609def67.09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/33/244d1e9ed652c7b142a3dc5764bb832d.10.webp"
+                ]
+            },
+            {
+                "chapter": "34",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/eac873aba9d5df24096e66db0a51b573.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/6dded1ae86b87ca330be532c6cb70738.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/396778a4a4866196d247047b6ee5c2a0.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/1ed7fa064ccd31bef4366a4a36284a88.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/60c27e52f1b906ef28c07c202e650a24.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/055281789ade1974459f5f576917e982.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/a68cc779320923ab561691e2f7798755.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/14066ac79659796512604d704e8ec12f.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/97fad015f07981a35f25961900b11393.09_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/879111decfaa4f14ad5ed45c97e05ce6.10_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/a4bf9f5e335875c67515ccc7faf91aa4.11_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/f157dc46f13156560b78c756f2bda585.12_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/34/41fde316cf05471c3cd2f86a6dda7fa6.9999 تابع عملك.jpg"
+                ]
+            },
+            {
+                "chapter": "35",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/740b6ca8360dfea10e76680cb8d2d40d.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/040af262d07e874ea2ddbba82c5003d3.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/0d84ba678d4a0937836558a6f79e2838.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/95ea7c097a07d53c6aa61457735b168b.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/9c7c1a64629f208153bba59d0d47f6b7.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/fdf7fd8edfd64c918cece47bde3d5800.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/067dcc4298caca2c93d37710d48e05ab.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/6438e26b00337a8b9fddd62fe1ca1685.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/5eb0a97df8eb6ac26c70da2f81367acb.09_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/1ed4d579cfc2e985137f101a96efea65.10_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/30adf517095378823f96022efad7f6f3.11_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/35/44fa1ffe60165ed156aa5bf47d8f4d3e.12_result.webp"
+                ]
+            },
+            {
+                "chapter": "36",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/01.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/02.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/03.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/04.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/05.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/06.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/07.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/08.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/09.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/11.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/36/12.webp"
+                ]
+            },
+            {
+                "chapter": "37",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/e32bb8dadec9b0f8190326abd29433ec.0001_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/73eed51a05f8b99ab5054e00a355ce13.0002_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/7988ab33c90ffa12cc79049ef7d556af.0003_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/f59e34ee568669b04312a6dcc3444927.0004_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/1c3d2cb5ebc235aa75c00afde352f309.0005_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/b6aeb6810c9493b8019fa8b6ae695e44.0006_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/73594fa0fafa9f383f015a9b1d1dd0fc.0007_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/aefa206d925ee307a55d8d548da2cda5.0008_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/277d4694f820d6c5eaca5f699d4c4942.0009_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/5b42bfc36317e2509b5cdbcbd6e5e710.0010_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/0a3bf4a82feeacad2405b61faf26709c.0011_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/3187005efc3f99b2cebc5bdad4e2d768.0012_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/37/17128a0e52963cbaf5e919e8bffad297.0013_result.webp"
+                ]
+            },
+            {
+                "chapter": "38",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/0c2ef4d2e86eec3a82ece9b5323d6c4d.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/3e042c7110a7409826e31a2fc550215e.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/c26a77b13e7bce36dca7a3ca0b29a354.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/3226d5011e64852f0c20b7199359579b.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/56294c6ed94a969f3e53fb5742fcb7df.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/ee3726a1cca9635301a0f600d20886fe.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/962e2ba8b03743853110d97ed663d4f5.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/701a28b02d3b94623dd0e099acd59e36.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/cf023252ec4eafdf69f5f27f1494a722.09_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/a1c3b65e0fe6ac9efbca1e2ba48bfe7d.10_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/3bd25fdb1abcbe0215e14aa6da17dc4b.11_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/4daa32a2e74fabab215afc78da283bba.12_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/2395ffe46e7d9885337f67128ec3f93c.13_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/09954d20ce74c7463f3973d146b0996c.End_Page.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/38/ec91f21afe4bf1927eab13bcfe92842b.اعلان نقاط.png"
+                ]
+            },
+            {
+                "chapter": "39",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/c467592dfaac7c384aa45d3aefb98b05.01g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/fd01602c071f71d93e31e40fd2d68d03.02g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/78fd2b0ef7a5900b50d8d453bf8825d5.03g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/349d6d9c7e3532eb1ba5b67533b4adef.04g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/4def8a3b94750f4b88bb6ff53202cde7.05g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/f8ead2ccff4207b56e7a3f1aca790077.06g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/bd7b6d474386a587126371c2256b3c30.07g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/0db74869107c11db5e1b22be2df1f86e.08g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/388b0b5b8554ef0e18c49d0da1affa26.09g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/33500cf1942efb07f9c5ef996b22d347.10g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/251eaf95e0c4041a500417742e1afa20.11g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/d3f6bdd34df038033ac62a9691119321.12g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/db1ec84f80bacc91e09c1a606b4e088b.13g_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/39/12ae4448c7506720f33493f7f6aed6d9.End_Page.jpg"
+                ]
+            },
+            {
+                "chapter": "40",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/1de8c9dcbf9ef983d004a08a11d90aeb.01f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/d387886eaf36a1845952b42a84509b54.02f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/055a41b2770d1947b813cd0aa9add965.03f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/869f0b3a09fe57fc7ab060fcb514824c.04f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/0d95393f2800b3dcf8f6a570b8dfd6fc.05f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/946e12c304a6a2d70f8120b6ef9bc4c2.06f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/e96c10d3e38886552aa7255ebfe79b83.07f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/58a1922f169a16070046f6a6870ed41c.08f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/be61233d2862b947b46fa68bd6b6ce6a.09f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/a21fb89640532b840d6935f74e0769cb.10f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/767707ace7a9749fe7553e46ebe80b72.11f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/53f5918328f9abad825e2b351e373ba5.12f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/e5bd241ba308846c681924c5a89a4ea2.13f_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/40/432818c70644350e68a07d77c2ef3f90.End_Page.jpg"
+                ]
+            },
+            {
+                "chapter": "41",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/9bed7cc76043fc68cce3d384e4aa480e.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/e7ae4cebe6c47e80dd83d00a2090b276.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/5e702c6376cec52af096a50ea5ea0694.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/6d33fd910793622a03b07ed7ef4ec240.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/b0cacf1a39a8509cdac6d02de3b10387.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/fcdc9f06f03bfdfcfc24317195cbeed6.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/26e1eb49f6dd95265874696d1e4e1c64.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/9a35eb592acfabab68b5629b8f655703.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/6f415333ebf9570ac686212543bdc200.09_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/157286baca9a8494e4c7e08e34c306d6.10_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/f0b4ea76137b41d063c3217176738510.11_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/41/c134cae31e08725086fd14a8ca08e65d.End_Page.jpg"
+                ]
+            },
+            {
+                "chapter": "42",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/908f61a3b1613c474907e8512233f863.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/05a35f380a598adcdf6c98a04f2d04ca.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/b905391a0508bcd08a2c1551d43e36c0.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/6df17d2f9b02624d38ac8b7a8d223abc.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/d6ad0d1718258ec229f1b8de9b336d11.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/1a30454ad5e1422f313646ba16c8bda2.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/4dfad595231df3ce3191341b1e156ad4.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/e5c8945abf323fdcc76a38af8671cc1b.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/519b401867c8b241a8569d7d4e0eaff2.09_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/828e61827b3bf4039a5470522d1b7df5.10_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/42/ef9cc503f52f389c8394073d286a4000.11_result.webp"
+                ]
+            },
+            {
+                "chapter": "43",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/1e846b6203685c05efb9a32b33277a33.jpg",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/7dc23f4e0458f0c8fdc4fd59b071410f.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/0c21f5441b43e7342216f1487fe7ab64.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/d687b0526e0419bc9f42ee6948c8e8da.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/18cf0f99cc1763aca22765322bb34c42.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/dd6289d84239fd6479bebabd161aac10.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/bd745f144eb8c868088885da32d94e9c.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/c8c6d6a9031a383baad044cbc4d9a23f.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/0d61db78698df6695df33fbe6f2eebee.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/8b224a1d9c78be284fa544d178722e46.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/0affd834928d937f3ece7e8bec34c4a8.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/25075dbcf8a99a008d5660bc9d9fbf42.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/43/0cbff69034910605c099d3eb6ac47154.webp"
+                ]
+            },
+            {
+                "chapter": "44",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/5dc21ccf8536deebc4dd420aac7e769b.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/31582a8f8bc6c9b0d1493ea295c3e6f5.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/92875d75d45a9f8d6a1ac57a75e55509.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/3c9ebe4c34a53bee5582a73a43ebf59e.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/2365ed44dbe32d170592fc3b0b0073b8.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/807257c346d2998e58f7028e2d60c9d7.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/60e36ea5c51b818fa30079cfcb1d70ea.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/3996ef4d4893d75b2e48e4456d81396b.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/21088a1ed28252217b654e98861b3753.09_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/44/c63546f3a2b96d98951cbc549723725c.10_result.webp"
+                ]
+            },
+            {
+                "chapter": "45",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/8fc4cba7cc9f275bc06bae8a3cedf17b.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/58f2fe4d5a208a98d8ac58305601535a.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/2084e63ca33336c765f997b9de74a888.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/8fc77a187a0114f233b7debc22284c06.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/234fc488528bde89eeb4124737b15e28.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/c47129144efd114a4a7748bbbdbfebf3.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/5619f9ce1f7ce5d76ce35db7011f11a0.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/61515d3522b5ce069f28c3df180a0038.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/45/d7ff1dacfc0f5a59a20a6f547ebda528.09_result.webp"
+                ]
+            },
+            {
+                "chapter": "46",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/3effe6276a5b01191a0b5bbd012383af.01_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/75a883c3a1c5e589e43ca527368d23fd.02_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/a4b8c546ea841ece2e5c08ce81d72cdb.03_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/abf3054c81e1215d77eb16f4c9baebba.04_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/8b607d6a93ad88bb866b41c1c2d4174a.05_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/21f2810746a7137849eaa849ffe26877.06_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/69428c183565f95ca3514f840dbdcf51.07_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/46719f4571e380e56b3955cffc6c3975.08_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/fb1b5c390283ac9521fc545711980d81.09_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/8d80dde91cef9faf65450ae654a062a2.10_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/84ec2fba73cc6a474292d40efe529593.11_result.webp",
+                    "https://olympustaff.com/uploads/manga_8d3bb/46/4b6da733dacb0dac2c3f54b2548e168c.12_result.webp"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "anime1": {
+        "info": {
+            "title": "test1",
+            "story": "مانجا test1 مترجمةtest1 test ffFff",
+            "image": "https://olympustaff.com/images/manga/1042604257208391915.png"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_c361b/1/610edb33f91d26456672ed4880a2fffc.Screenshot_24.png"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_c361b/1/610edb33f91d26456672ed4880a2fffc.Screenshot_24.png"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_c361b/3/fb9a950bb7e41d2ca785edceb79bde69.test-product.png"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_c361b/3/fb9a950bb7e41d2ca785edceb79bde69.test-product.png"
+                ]
+            }
+        ]
+    }
+}

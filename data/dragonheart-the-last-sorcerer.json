@@ -1,0 +1,19 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Dragonheart: The Last Sorcerer",
+            "story": "مانجا Dragonheart: The Last Sorcerer مترجمةDragonheart: The Last Sorcerer **Dragonheart: The Last Sorcerer**\r\n\r\nفي مملكة دراكونيا، حيث تتشابك الأساطير والواقع، تنبأت النبوءة بعودة ساحر قديم قادر على تغيير مصير المملكة بأكملها. \"قلب...",
+            "image": "N/A"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_87248/01/c38452260ade9ca5443da07d87f324d8.Comic_004.png",
+                    "https://olympustaff.com/uploads/manga_87248/01/ce7c20a450f82531db432f6fe3381d2f.Comic_005.png",
+                    "https://olympustaff.com/uploads/manga_87248/01/89826bc778de896db52e22c0d8e6dde0.Comic_006.png"
+                ]
+            }
+        ]
+    }
+}
