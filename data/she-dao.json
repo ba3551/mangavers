@@ -1,0 +1,48 @@
+{
+    "anime1": {
+        "info": {
+            "title": "She Dao",
+            "story": "مانجا She Dao مترجمةShe Dao في أوقات الفوضى والكوارث، يظهر أشخاصٌ يقدمون سَيْفَ الدَيْنْ للناس المقدرين، تاركين ورائهم فقط بعض النبوءات. عندما تنتهي النبوءة يعودون لاستعادة \"سيوف الدَيْ...",
+            "image": "https://olympustaff.com/images/manga/13205128361803669579.png"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f3f27/0/ef94e50a5c96fbb2217b803a255bfd46.01.jpg",
+                    "https://olympustaff.com/uploads/manga_f3f27/0/49da8f7300f6c14fe7e05c9e84b5793e.02.jpg"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f3f27/1/f0930455a9ba3f6536e22bcf72f30a7f.01.jpg",
+                    "https://olympustaff.com/uploads/manga_f3f27/1/d50a5f799303046b0fa1f843f5bcf983.02.jpg",
+                    "https://olympustaff.com/uploads/manga_f3f27/1/a59010c4db90ead5b26c9bd1d4a29230.03.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f3f27/2/b7a0f4dbba9a5542cf034e804c1560ee.01.jpg",
+                    "https://olympustaff.com/uploads/manga_f3f27/2/05a3f187b4ef16c066a81c2386d81a6e.02.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f3f27/3/89f03ad562c961c6344c516cb6add193.01.jpg",
+                    "https://olympustaff.com/uploads/manga_f3f27/3/5d5ab45ab6ca207687a055a5b0c98ef9.02.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_f3f27/4/9dc5f172c89f95adcc010b01c6cfb5ee.01.jpg",
+                    "https://olympustaff.com/uploads/manga_f3f27/4/15c3dc9d62a339d29147decb2e713521.02.jpg",
+                    "https://olympustaff.com/uploads/manga_f3f27/4/1c293500eb92ed4e5ce80935242e5f18.03.jpg"
+                ]
+            }
+        ]
+    }
+}

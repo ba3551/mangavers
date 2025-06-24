@@ -1,0 +1,34 @@
+{
+    "anime1": {
+        "info": {
+            "title": "The demon king&#039;s champion",
+            "story": "مانجا The demon king's champion مترجمةThe demon king's champion بعد أن كان لاعباً محترفاً، أصبح شي وو الآن بطلًا داخل لعبته المفضلة! بعد قضاء الكثير من الوقت يلعب ليلاً و نهاراً، يموت بسبب نوبة قلبية اثناء لعبه، لكنه يجد...",
+            "image": "https://olympustaff.com/images/manga/1164691692.webp"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_5a4b2/1/ad17d9a7dc8476bfae2b6f1a93fdc98f.01.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/1/978813bbec2a840ba703ca1dbaa94e34.02.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/1/0f8d3e507bf773770c92b7d846c8b380.03.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/1/44ba1e925dd90772d11c35a7ca86ff27.04.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/1/618f91ea86b6b9b0cda488c17e41518b.05.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/1/d3976322d42a508389b2a47eb094f5d5.06.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_5a4b2/2/beb38ea0a1dee9ecbc765e1d4b45f9a5.01.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/2/0eb663ee3a79607281405f1dbd399579.02.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/2/1a877f0edbdd7c0e89d00bde8316f73f.03.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/2/465ba39a40b63755d203de533713aa8e.04.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/2/9ef7b33ece366b5cf2aaee4bb68efff5.05.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/2/b012e6ec0f3090eeffd1d31652471695.06.webp",
+                    "https://olympustaff.com/uploads/manga_5a4b2/2/3a8e6d0029cb5c1cecf24661f5b92648.07.webp"
+                ]
+            }
+        ]
+    }
+}

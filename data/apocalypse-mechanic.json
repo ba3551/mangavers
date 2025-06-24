@@ -1,0 +1,57 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Apocalypse Mechanic",
+            "story": "مانجا Apocalypse Mechanic مترجمةApocalypse Mechanic اندلعت نهاية العالم ، وانتشر فيروس الزومبي على نطاق واسع. تعرض يي باي للاضطهاد من قبل قائدة الفرقة \"العاهرة اللوتس البيضاء\" ، وتعرضت ذراعه للعض من قبل زومبي...",
+            "image": "https://olympustaff.com/images/manga/1276561440.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/ecfb67c21889538ff1bfa4b14eca0a49.0.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/12ee93e1c57d23380aefff28de05f6e3.1.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/688a75644b0747d405382be4dccf020a.2.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/68e5a524b5e50d795089a8cb56125cfb.3.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/a12ec73877772d63747108ceaa40bd83.4.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/d19b40d3e7e6b28ff4f1b559ac79fbf8.5.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/bd4e800b361ecf43d70a7a07efbe9eaa.6.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/594a3e197bcd4ed42f9a280a567f11b9.7.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/1/b8caa50f78e400c0fc37ffcb0edbf626.8.jpg"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_bc6dc/2/1d57a993ad8c5f47f36fb149616f8f85.01.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/2/ffec189b12a727a72b67e97123437892.02.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/2/7f382f8ee88732e6a344142787d984f7.03.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/2/1118871b66b667106cafe6843ab4a5a4.04.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/2/b6b875d50ebdb3d1384b14c8a4aaf883.05.jpg"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_bc6dc/3/66bc17f095f6762bb530656893f3a407.01.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/3/f8268b16b1074041f84f0f52a8f81f51.02.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/3/95d6c7cbb8b1a362ffb6cbecee3f86a6.03.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/3/bb691e9a1bc1c5f2a5964bd64ca963c9.04.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/3/0de4cd1fb2e47e984217a2b8326e4cee.05.jpg"
+                ]
+            },
+            {
+                "chapter": "4",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_bc6dc/4/dadce259d5908cd9a8d2c687c2de107a.01.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/4/8c8c4f93aa57229b322761f075ad2b5b.02.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/4/baad9a91d2d4a3c5dcdc6e5bdd384571.03.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/4/a9c5be060887fcaeee017204275a14b2.04.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/4/5b6e9ef4328cb3fbbba90c6a1a8c1f7d.05.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/4/3dc70c8c5f5bd213ee85d19c5502db43.06.jpg",
+                    "https://olympustaff.com/uploads/manga_bc6dc/4/b0e352de9d34bb68d7b212a6d0079be2.07.jpg"
+                ]
+            }
+        ]
+    }
+}

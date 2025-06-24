@@ -1,0 +1,33 @@
+{
+    "anime1": {
+        "info": {
+            "title": "I Just Want To Game In Peace",
+            "story": "مانجا I Just Want To Game In Peace مترجمةI Just Want To Game In Peace منذ أن جاءت عواصف الأبعاد إلى الأرض ، ظهرت العديد من مناطق الأبعاد ، جالبة معها جميع أنواع الكائنات البُعدية - الخالدون ، بوذا ، الشياطين ، الملائكة ، الجان...",
+            "image": "https://olympustaff.com/images/manga/890120512.png"
+        },
+        "chapters": [
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_47d1e/1/00.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/1/01.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/1/02.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/1/03.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/1/04.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/1/05.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/1/06.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_47d1e/2/00.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/2/01.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/2/02.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/2/03.webp",
+                    "https://olympustaff.com/uploads/manga_47d1e/2/04.webp"
+                ]
+            }
+        ]
+    }
+}
