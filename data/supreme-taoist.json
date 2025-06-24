@@ -1,0 +1,77 @@
+{
+    "anime1": {
+        "info": {
+            "title": "Supreme Taoist",
+            "story": "مانجا Supreme Taoist مترجمةSupreme Taoist ينتقل بطل الرواية باي زيوي إلى عالم مليء بالبشر والشياطين والوحوش والآلهة، حيث اكتشف أنه يمكنه استخدام نظام مجهز لرفع احصائيات جسده، ويستكشف أشكال عدة من تقن...",
+            "image": "https://olympustaff.com/images/manga/331471038.jpg"
+        },
+        "chapters": [
+            {
+                "chapter": "0",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1c9ac/0/00.webp"
+                ]
+            },
+            {
+                "chapter": "1",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/00.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/01.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/02.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/03.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/04.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/05.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/06.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/07.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/1/08.webp"
+                ]
+            },
+            {
+                "chapter": "2",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/00.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/01.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/02.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/03.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/04.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/05.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/06.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/07.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/08.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/2/09.webp"
+                ]
+            },
+            {
+                "chapter": "3",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/00.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/01.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/02.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/03.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/04.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/05.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/06.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/3/07.webp"
+                ]
+            },
+            {
+                "chapter": "5",
+                "images": [
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/00.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/01.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/02.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/03.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/04.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/05.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/06.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/07.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/08.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/09.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/010.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/011.webp",
+                    "https://olympustaff.com/uploads/manga_1c9ac/5/012.webp"
+                ]
+            }
+        ]
+    }
+}
